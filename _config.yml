@@ -52,6 +52,7 @@ plugins:
   - jekyll-time-to-read
   - liquid_pluralize
   - premonition
+  - jekyll-seo-tag
 
 paginate: 6
 paginate_path: "/blog/page:num/"

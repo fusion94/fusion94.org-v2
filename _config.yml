@@ -6,7 +6,8 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    ## permalink: /blog/:slug
+    permalink: /blog/:year-:month-:day/:title/
   projects:
     output: true
     permalink: /project/:slug
@@ -41,14 +42,15 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-time-to-read
+  - liquid_pluralize
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  

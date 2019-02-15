@@ -1,35 +1,38 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About Me
+subtitle: All the useless information that you might care to know.
+description: 
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Features
+# Background
 
-Journal is packed with powerful features to showcase your work:
+My name is Tony Guntharp and I make things. Software or Hardware, it doesn’t matter. I’m OCD, a Geek, a Homebrewer. Fan of Open Source, Linux, OSX and Mobile. Purveyor of Craft Beer and Single Malt Scotches. <del>Avid Motorcyclist and</del> Porsche 911 Owner. 
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+I Spent 10 years of my life jumping out of airplanes for the US Army doing high speed/low drag shit. Combat Veteran.
 
-## Get Index
+I'm also a conservationist and a hunter.
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+I was one of the Co-Founders of [SourceForge.net](http://sf.net).
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+I've been at [Google](https://about.google/) since 2015, currently working as the [Site Reliability Manager](https://landing.google.com/sre/) for the Carrier-SRE-MTV team. Most of our focus is in the area of carrier related services including [Rich Communication Services (RCS)](https://en.wikipedia.org/wiki/Rich_Communication_Services), SMS Aggregation and anything else related to mobile messaging.
+
+I am (or was) a core developer/contributor for the following Open Source Projects:
+
+* [CLAHub](https://github.com/clahub)
+* [OpenROV](https://github.com/openrov)
+* [Kandan](https://github.com/kandanapp)
+* [rIMS](https://github.com/DamageStudios/rims)
+* [Titanium from Appcelerator](https://github.com/appcelerator/)
+
+
+I’m an advisor/investor to the following projects:
+
+* [Appgyver](https://www.appgyver.com/) Makers of Prototyper and Steroids
+* [Flutter Wireless](http://flutterwireless.com/)
+
+### Philosophy
+
+I’m a big believer in [Open Source](https://en.wikipedia.org/wiki/Rich_Communication_Services). As such you’ll find quite a bit of of my work released under a variety of Open Source licenses over at [GitHub](http://github.com).

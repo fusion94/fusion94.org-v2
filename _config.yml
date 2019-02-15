@@ -58,3 +58,11 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 disqus: "fusion94org"
+
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: /var/www/fusion94.org/html

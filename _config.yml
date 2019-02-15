@@ -56,3 +56,6 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+disqus:
+  shortname: "fusion94org"

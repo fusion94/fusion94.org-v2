@@ -51,6 +51,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-time-to-read
   - liquid_pluralize
+  - premonition
 
 paginate: 6
 paginate_path: "/blog/page:num/"

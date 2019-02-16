@@ -4,7 +4,8 @@ title: "The return of Stargate"
 date: 2017-07-22 15:02:07
 comments: true
 published: true
-categories: 
+tags: sci-fi, stargate 
+featured_image: /img/featured/stargate.jpg
 ---
 
 Color me excited...the long-running science fiction franchise Stargate will be returning later this fall with a new digital show from MGM called Stargate Origins. The announcement was made this last week at San Diego Comic-Con, during a 20th anniversary retrospective on the series Stargate SG-1.

@@ -4,7 +4,8 @@ title: "T-Rex Skull"
 date: 2015-09-14 11:45:56
 comments: true
 published: true
-categories: [Makers, 3D Printing]
+tags: Makers, 3D Printing
+featured_image: /img/featured/t-rex.jpg
 ---
 So this was a sample print I did over the weekend after using my method of automatic bed leveling as described in a previous blog post.
 

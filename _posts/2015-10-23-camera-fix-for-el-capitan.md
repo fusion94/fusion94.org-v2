@@ -4,7 +4,8 @@ title: "Camera Fix for El Capitan"
 date: 2015-10-23 17:01:37
 comments: true
 published: true
-categories: [OSX, Bug]
+tags: OSX, bug
+featured_image: /img/featured/capitan.jpg
 ---
 
 If you've upgraded to Mac OS X 10.11.x "El Capitan" you may occasionally see an error that states "No Camera Available" when you open up FaceTime or any other app that requires usage of the camera.

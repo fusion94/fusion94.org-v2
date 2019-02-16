@@ -4,8 +4,10 @@ title: "Raspberry Pi Versions"
 date: 2015-09-24 09:38:42
 comments: true
 published: true
-categories: [Raspberry Pi, Open Source]
+categories: Raspberry Pi, Open Source
+featured_image: /img/featured/pi.jpg
 ---
+
 ### Introduction
 There have now been a number of revisions to the Raspberry Pi PCB so the device you have in front of you could be any one of a number of variations. The changes include mounting holes, modifications to the power supply circuitry, different GPIO headers and varying numbers of USB ports. Additionally the Pi 2 introduced a new CPU, additional memory and additional USB Ports.
 

@@ -125,7 +125,7 @@ This chart shows the trend of total P-R apportionment per fiscal year, from 2008
 (Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
 </div>
 
-How can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
+So how can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
 
 Buying licenses, stamps and tags to legally hunt or fish in America is an essential and necessary means to supporting wildlife conservation. However, we can do more to conserve fish, wildlife and their habitat to ensure the future of hunting and fishing for future generations. Alternatively there are other ways as sportsmen to support Conservation such as the 2% for Conservation movement/organization.
 

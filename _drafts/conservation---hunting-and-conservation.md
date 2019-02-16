@@ -142,4 +142,4 @@ three books
 * Ranch Life and the Hunting-Trail
 * The Wilderness Hunter
 
-#### References
+#### Footnotes

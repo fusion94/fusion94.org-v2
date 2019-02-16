@@ -125,4 +125,4 @@ Many people don't know who their senators and representatives are. And that's ok
 * [S.47 - Natural Resources Management Act](https://www.congress.gov/bill/116th-congress/senate-bill/47)
 * [govtrack Overview](https://www.govtrack.us/congress/bills/116/s47)
 
-#### References
+#### Footnotes

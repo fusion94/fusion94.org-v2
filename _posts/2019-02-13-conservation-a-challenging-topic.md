@@ -162,4 +162,4 @@ Additionally you might find the Conversation Matters Podcast very interesting.
 
 More information in regards to Shane's work can be located on his [website](http://conservationvisions.com). He has also provided digital copies of all his [articles/reports/presentations and keynotes](http://conservationvisions.com/works).
 
-#### References
+#### Footnotes

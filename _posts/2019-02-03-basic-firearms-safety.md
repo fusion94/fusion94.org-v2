@@ -5,6 +5,7 @@ date: 2019-02-03 04:43:22
 comments: true
 published: true
 tags: firearms, guns
+featured_image: /img/featured/Sako.jpg
 ---
 
 The basic tenet of firearms safety is **keeping yourself and those around you safe is your responsibility and must be your number one priority**. There are a few acronyms out there related to firearms safety.

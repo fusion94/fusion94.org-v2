@@ -58,7 +58,7 @@ plugins:
   - jekyll/tagging
   - jekyll-tagging-related_posts
   
-paginate: 6
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 disqus: "fusion94org"

@@ -10,7 +10,8 @@ featured_image: /img/featured/montana-1.jpg
 
 This is the first article in a series of articles that relate to various forms of Conservation.
 
-> We need all citizens to care, we need all citizens to believe, we need all citizens to engage, and we need to again make it understood that to be concerned about conservation is an act of citizenship.
+> "We need all citizens to care, we need all citizens to believe, we need all citizens to engage, and we need to again make it understood that to be concerned about conservation is an act of citizenship."
+>
 > -- Shane Mahoney
 
 I believe that this can be a challenging topic to discuss at times depending on one's viewpoint. In this post I will try and walk you through various types of Conservation as it can have many different meanings.

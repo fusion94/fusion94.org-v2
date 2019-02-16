@@ -4,8 +4,8 @@ title: 'Bay Area Public Service Announcement'
 date: 2006-04-04 10:53
 comments: true
 categories : []
----  
-
+tags:
+---
 Rain Rain go away...come again some other day...
 
 The average number of March rainy days (in San Francisco) is 10. This year though we got hit with 23 days of recorded precipitation out of a possible 31. 4 days into the month of April and we're 4 for 4 with no immediate end in sight.

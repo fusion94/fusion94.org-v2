@@ -4,8 +4,8 @@ title: 'Thunderbird 1.5 Arrives'
 date: 2006-01-12 09:15
 comments: true
 categories : []
----  
-
+tags:
+---
 Thunderbird 1.5 has been released. It's ready to <a href="http://www.mozilla.com/thunderbird/">download</a>, so get going and download it already.
 
 <a href="http://www.spreadfirefox.com/?q=affiliates&id=0&t=180"><img border="0" alt="Get Thunderbird!" title="Get Thunderbird!" src="http://sfx-images.mozilla.org/affiliates/thunderbird/thunderbird_large.png"/></a>

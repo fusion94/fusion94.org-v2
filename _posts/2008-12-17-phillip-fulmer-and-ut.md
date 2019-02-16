@@ -4,8 +4,8 @@ title: 'Phillip Fulmer & UT'
 date: 2008-12-17 17:44
 comments: true
 categories : [University of Tennessee, Volunteers, Football]
----  
-
+tags:
+---
 Many years ago I was lucky enough to attend Phillip Fulmer's first game as head coach of the Tennessee Volunteers. That was on September 5th, 1992 and the final score was:
 
 UT: 38

@@ -4,8 +4,8 @@ title: 'California Academy of Sciences Trip'
 date: 2002-03-16 14:01
 comments: true
 categories : [General, Science]
----  
-
+tags:
+---
 So I spent about 3 1/2 hours at the <a href="http://www.calacademy.org/">California Academy of Sciences</a> today. I spent most of my time in the Natural History Museum and the Steinhart Aquarium. Saw several very cool exhibits.
 
 The Department of Ichthyology had an exhibit where they had x-rayed several types and species of fish. It was way cool and wasn`t expected.

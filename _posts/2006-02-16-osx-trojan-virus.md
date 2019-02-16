@@ -4,8 +4,8 @@ title: 'OSX Trojan/Virus?'
 date: 2006-02-16 19:52
 comments: true
 categories : []
----  
-
+tags:
+---
 So there's been information floating around all day in regards to Mac OSX's first "virus".  In reality while it can be considered a virus if you get infected by it you'd be pretty stupid. It's effectively a "non-virulent" virus that preys on the stupidity/lack of knowledge of the end user to behave in a certain manner.
 
 The only way you can become infected is if you do ALL of the following:

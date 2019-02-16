@@ -4,8 +4,8 @@ title: 'Doom3 Initial Thoughts'
 date: 2004-08-05 09:11
 comments: true
 categories : []
----  
-
+tags:
+---
 All I can say about Doom3 so far is "Holy Crap".
 
 Everything about this game is absolutely beautiful. From the texture mapping to the unbelievable lighting to the sounds. It absolutely rocks.

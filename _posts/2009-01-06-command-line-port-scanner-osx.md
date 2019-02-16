@@ -4,8 +4,8 @@ title: 'Command Line Port Scanner OSX'
 date: 2009-01-06 09:34
 comments: true
 categories : [General, CLI, OSX]
----  
-
+tags:
+---
 Who knew that OS X has a command line port scanner? I for one didn't. I've always just used the Network Utility version. Here's how to access it.
 
 As the superuser run this:

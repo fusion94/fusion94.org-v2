@@ -4,8 +4,8 @@ title: 'NBA Finals Schedule'
 date: 2006-06-04 17:33
 comments: true
 categories : []
----  
-
+tags:
+---
 NBA FINALS
 
 Best-of-seven series (all games on ABC and ABCHD and all times are EST)

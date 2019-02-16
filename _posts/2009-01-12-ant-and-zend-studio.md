@@ -4,8 +4,8 @@ title: 'ANT and Zend Studio'
 date: 2009-01-12 08:25
 comments: true
 categories : [PHP, Zend Studio]
----  
-
+tags:
+---
 Zend Studio for Eclipse is a commercial edition of Eclipse plus the PDT plugin and various other additions. Unfortunately Zend decided to disable the Ant plugin in it's distribution of the Eclipse platform. Nonetheless if you'd like to run Ant scripts or simple Phing scripts it would be really useful to be able to use the Ant integration of Eclipse. 
 
 <b>Preparation</b> 

@@ -4,8 +4,8 @@ title: 'Sca4ered v133 The “Polynikes” Release'
 date: 2006-02-21 23:11
 comments: true
 categories : []
----  
-
+tags:
+---
 First a little background.
 
 <a href="http://dancameron.org">Dan Cameron</a> designed the original <a href="http://dancameron.org/wordpress/sca4ered-theme/">Sca4ered theme</a> but decided that he no longer wanted to maintain it in it's "current" state. In speaking with Dan I asked (and was granted permission) to continue the development of the Sca4ered theme as it stands today.

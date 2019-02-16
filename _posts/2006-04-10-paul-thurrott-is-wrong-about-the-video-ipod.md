@@ -4,8 +4,8 @@ title: 'Paul Thurrott is wrong about the Video iPod'
 date: 2006-04-10 21:16
 comments: true
 categories : []
----  
-
+tags:
+---
 <a href="http://www.internet-nexus.com/2006/04/is-this-reason-itunes-isnt-selling.htm">Paul Thurrott mentions</a> that the reason the iTMS isn't selling full-length movies could be:
 
 <blockquote>To put out an equally ridiculous question: Is the real reason iTunes isn't selling full length movies yet because the iPod only gets 90 minutes--if that--of battery life when playing back video? Methinks that's a much bigger issue for Apple that the price.</blockquote>

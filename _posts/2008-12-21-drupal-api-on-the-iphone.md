@@ -4,8 +4,8 @@ title: 'Drupal API on the iPhone'
 date: 2008-12-21 21:06
 comments: true
 categories : [Drupal, PHP. Mobile. iPhone]
----  
-
+tags:
+---
 Here's an interesting little application for the iPhone.
 
 <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=298632623">Offline Drupal API Documentation</a>

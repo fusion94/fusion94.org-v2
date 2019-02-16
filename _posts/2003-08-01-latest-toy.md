@@ -4,8 +4,8 @@ title: 'Latest Toy'
 date: 2003-08-01 12:21
 comments: false
 categories : []
----  
-
+tags:
+---
 So about a month ago I bought a new Road Bike in an effort to get back in somewhat decent shape and to drop 25 pounds or so. I bought a KHS Flite 500.
 
 Here are the specs:

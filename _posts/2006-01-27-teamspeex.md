@@ -4,8 +4,8 @@ title: 'TeamSpeex'
 date: 2006-01-27 10:52
 comments: true
 categories : []
----  
-
+tags:
+---
 If you play videogames on OSX one of the most frustrating things has been the lack of a proper client for <a href="http://www.goteamspeak.com/">TeamSpeak</a>.
 
 Wondering what TeamSpeak is?

@@ -4,8 +4,8 @@ title: 'Outrageous Phone Bill'
 date: 2006-04-05 09:57
 comments: true
 categories : []
----  
-
+tags:
+---
 "So what can I help you with today sir?"
 "I have a problem with my bill."
 "Ok let me see here. What seems to be wrong with it?"

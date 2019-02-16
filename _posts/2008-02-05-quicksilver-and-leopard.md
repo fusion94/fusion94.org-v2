@@ -4,8 +4,8 @@ title: 'Quicksilver and Leopard'
 date: 2008-02-05 09:31
 comments: true
 categories : [Apple/OSX, Leopard, Quicksilver]
----  
-
+tags:
+---
 Ever since I upgraded all my boxes to <a href="http://www.apple.com/macosx/">Leopard</a> <a href="http://www.blacktree.com/">Quicksilver</a> has been having issues. While searching for a new release I've located a solution that seems to have fixed most of my issues. Here's what to do.
 
 <ol>

@@ -4,8 +4,8 @@ title: 'Happy Valentine’s Day from Apple Part Deux'
 date: 2006-02-14 19:15
 comments: true
 categories : []
----  
-
+tags:
+---
 So <a href="http://apple.com">Apple Computer</a> also presented me with another present today in the form of an unexpected CPU ugrade for free. The <a href="http://www.apple.com/macbookpro/">MacBook Pro</a> that we ordered for Nicole is now shipping with a 1.83 GHz Intel Core Duo processor, up from the previously announced 1.67 GHz that we ordered with the machine.
 
 This is pretty nice however when I logon to the Apple Store to check the order status I now see that the previous order:

@@ -4,8 +4,8 @@ title: 'MacWorld San Francisco 2004 Keynote thoughts.'
 date: 2004-01-07 09:18
 comments: true
 categories : []
----  
-
+tags:
+---
 <ul>
 <li>iPod time. 730,000 sold last quarter. (>2 mil out there now); 31% market share; low end now 15GB ($300); headphones for $40; new ad; <a href="http://www.apple.com/ipodmini/">iPod mini</a> - 4G storage, .5" thick, $250, firewire/usb2
 </li><li><a href="http://www.apple.com/ilife/garageband/">GarageBand</a>

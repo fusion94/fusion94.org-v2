@@ -4,8 +4,8 @@ title: 'OSX Update'
 date: 2002-12-21 18:13
 comments: true
 categories : [Apple/OSX]
----  
-
+tags:
+---
 <a href="http://apple.com">Apple</a> has updated OSX up to 10.2.3. Here's the changelog.
 
 Enhancements Delivered with this update

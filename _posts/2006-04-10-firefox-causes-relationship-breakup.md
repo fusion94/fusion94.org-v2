@@ -4,8 +4,8 @@ title: 'Firefox causes relationship breakup'
 date: 2006-04-10 06:42
 comments: true
 categories : []
----  
-
+tags:
+---
 <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=330884">Bug # 330884</a>
 
 <blockquote>This privacy flaw has caused my fiancé and I to break-up after having dated for 5 years.

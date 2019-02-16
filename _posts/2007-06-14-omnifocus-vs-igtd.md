@@ -4,8 +4,8 @@ title: 'OmniFocus vs iGTD'
 date: 2007-06-14 12:47
 comments: true
 categories : [GTD, Apple/OSX]
----  
-
+tags:
+---
 I used to use the Kinkless kGTD tool developed by Ethan Schoonover. It was a great tool and since it was integrated with Omni Outliner it was a perfect fit for me as a Omni Outliner user.
 
 When Ethan announced that he was no longer going to continue working on kGTD I was a bit bummed until I heard that kGTD was getting rolled into a new product from OmniGroup called OmniFocus. I was once more excited.

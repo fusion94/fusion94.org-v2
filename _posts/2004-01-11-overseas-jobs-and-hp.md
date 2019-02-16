@@ -4,8 +4,8 @@ title: 'Overseas Jobs and HP'
 date: 2004-01-11 23:13
 comments: true
 categories : []
----  
-
+tags:
+---
 So it looks like several Technology Firms are asking (begging perhaps) Congress not to impose trade restrictions that would minimize or prevent US jobs from moving overseas. More information on this can be located <a href="http://story.news.yahoo.com/news?tmpl=story&#38;u=/ap/20040107/ap_on_bi_ge/technology_jobs_5">here</a>.  I especially love these two quotes:
 <br /><br />
 'There is no job that is America's God-given right anymore,' Carly Fiorina, chief executive for Hewlett-Packard Co., said Wednesday. 'We have to compete for jobs.'

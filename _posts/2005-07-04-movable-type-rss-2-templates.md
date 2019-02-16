@@ -4,8 +4,8 @@ title: 'Movable Type RSS 2 Templates'
 date: 2005-07-04 04:02
 comments: true
 categories : []
----  
-
+tags:
+---
 So I've been meaning to do this for some time and with the holiday weekend I was able to find a little time to do this.
 
 The default RSS 2 template that comes with Movable Type quite honestly sucks. So I did a bit of research on the net and found this one which actually formats the feed in a somewhat sane manner.

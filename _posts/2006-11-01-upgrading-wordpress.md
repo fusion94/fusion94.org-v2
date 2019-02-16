@@ -4,8 +4,8 @@ title: 'Upgrading Wordpress'
 date: 2006-11-01 18:28
 comments: true
 categories : []
----  
-
+tags:
+---
 Well I finally got around to upgrading my wordpress installation from 2.0.1 to the latest greatest of 2.0.5. It was incredibly simple and here's a quick 5 step upgrade plan.
 
 <strong>Step 1: </strong>Backup Database Tables and Files including .htaccess and wp-config.php

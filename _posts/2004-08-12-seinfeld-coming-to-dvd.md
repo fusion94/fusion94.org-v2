@@ -4,8 +4,8 @@ title: 'Seinfeld coming to DVD'
 date: 2004-08-12 23:06
 comments: true
 categories : []
----  
-
+tags:
+---
 So seasons 1, 2, and 3 of Seinfeld are coming to DVD on November 23, 2004.
 
 You can preorder them here:

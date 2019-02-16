@@ -4,8 +4,8 @@ title: 'Silverlight vs Flash'
 date: 2007-05-08 09:46
 comments: true
 categories : [General, Technology]
----  
-
+tags:
+---
 There has been quite a bit of discussion in regards to whether or not Silverlight is a Flash killer etc.
 
 I believe PiperJaffray Analysts said it best with this:

@@ -4,8 +4,8 @@ title: 'Ahoy Matey'
 date: 2005-09-19 12:52
 comments: true
 categories : []
----  
-
+tags:
+---
 So it's <a href="http://www.talklikeapirate.com/piratehome.html">International Talk Like A Pirate Day</a> today.
 
 And in that spirit here are the Top 10 pickup lines that should be used today.

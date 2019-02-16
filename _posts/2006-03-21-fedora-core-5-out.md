@@ -4,8 +4,8 @@ title: 'Fedora Core 5 out'
 date: 2006-03-21 09:20
 comments: true
 categories : []
----  
-
+tags:
+---
 <a href="/images/fc5.png" rel="lightbox" title="Fedora Core 5"><img src="/images/fc5.png" width="300" height="225" alt="Fedora Core 5" /></a>
 
 Fedora Core 5 is out. You can download it at these links:

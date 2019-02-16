@@ -4,8 +4,8 @@ title: 'Stargate MMORPG Announced'
 date: 2006-03-04 16:18
 comments: true
 categories : []
----  
-
+tags:
+---
 Adding to the already crowded MMOG market, Gamecloud has <a href="http://www.gamecloud.com/article.php?article_id=3268">reported</a> that game studio Cheyenne Mountain Entertainment will attempt to bring us Stargate Worlds, an MMORPG (Massively Multiplayer Role-Playing Game) based on the popular science-fiction television series, Stargate SG-1 & Stargate Atlantis.
 
 As a huge fan of both series (I own all the DVDs that have been released to date) and as someone who started a game studio to build a MMORPG I'll be paying close attention to see if Cheyenne Mountain gets this right.

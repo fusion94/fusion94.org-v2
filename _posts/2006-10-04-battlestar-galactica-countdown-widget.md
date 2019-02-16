@@ -4,8 +4,8 @@ title: 'Battlestar Galactica Countdown Widget'
 date: 2006-10-04 21:50
 comments: true
 categories : []
----  
-
+tags:
+---
 I've been playing around a bit with Dashcode* the past day or so just to get myself familiar with it and tonight whipped up a countdown timer for the start of Battlestar Galactica's Season 3.
 
 <img src="/images/bsg_timer.png" alt="BSG Timer" />

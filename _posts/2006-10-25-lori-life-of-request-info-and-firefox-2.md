@@ -4,8 +4,8 @@ title: 'LORI (life-of-request info) and Firefox 2'
 date: 2006-10-25 13:27
 comments: true
 categories : []
----  
-
+tags:
+---
 LORI (life-of-request info) is a Firefox extension that adds the following functionality to Firefox.
 
 For a given page,

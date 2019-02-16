@@ -4,8 +4,8 @@ title: 'Getting iTunes 6+ & Front Row to accept non-native video formats'
 date: 2006-09-16 09:50
 comments: true
 categories : []
----  
-
+tags:
+---
 One of the issues I've had for awhile now is the inability for iTunes/Front Row to recognize and play non-native video formats (specifically .AVI).
 
 Until now. To play non-native video  formats in iTunes or Front Row here's a little tip/trick for you.

@@ -4,8 +4,8 @@ title: 'Essential Doom3 Mod'
 date: 2004-08-12 13:33
 comments: true
 categories : []
----  
-
+tags:
+---
 If you're playing Doom3 here's an essential mod that you really need to get.
 
 It's called "Stupid Gunlights" and adds flashlights to your BFG, Chaingun, Machinegun, Pistol, Plasma gun, and Shotgun.

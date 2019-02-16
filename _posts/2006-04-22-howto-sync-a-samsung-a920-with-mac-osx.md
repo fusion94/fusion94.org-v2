@@ -4,8 +4,8 @@ title: 'HOWTO Sync a Samsung A920 with Mac OSX'
 date: 2006-04-22 00:22
 comments: true
 categories : []
----  
-
+tags:
+---
 I've had my <a href="http://sprintpcs.com">Sprint Power Vision</a> <a href="http://www.samsung.com/Products/MobilePhones/Sprint/SPH_A920WSSXAR.asp">Samsung A920</a> now for going on 40 days or so and for the most part have been very pleased with the functionality of the phone and the quality of service that Sprint has provided. I was able to get it to function as a <a href="http://en.wikipedia.org/wiki/EV-DO">EVDO</a> device and surf the web on my Windows laptop but have yet to try to do so on my <a href="http://www.apple.com/macbookpro/">MacBook Pro</a> (primarily because it just arrived).
 
 One of my biggest gripes to date has been the fact that while it's a Bluetooth enabled phone I've not been able to get my <a href="http://www.apple.com/macosx/features/addressbook/">Address Book</a> synced over.

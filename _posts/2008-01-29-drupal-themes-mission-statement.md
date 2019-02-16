@@ -4,8 +4,8 @@ title: 'Drupal Themes Mission Statement'
 date: 2008-01-29 09:33
 comments: true
 categories : [Drupal, Open Source, Themes, Code, Technology, Snippets]
----  
-
+tags:
+---
 In some <a href="http://drupal.org/project/Themes">Drupal Themes</a> there is support for displaying the "Mission Statement" across all pages and in others this support is limited to the "Front Page" or "Main Page". 
 
 If you are ever using one of the themes with limited mission statement support and want to display the mission statement across all pages you can use this to do so. 

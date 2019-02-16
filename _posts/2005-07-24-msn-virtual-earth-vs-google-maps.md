@@ -4,8 +4,8 @@ title: 'MSN Virtual Earth vs. Google Maps'
 date: 2005-07-24 05:06
 comments: true
 categories : []
----  
-
+tags:
+---
 Well well, the cat's out of the bag so to speak. Microsoft was supposed to be releasing <a href="http://virtualearth.msn.com/">Virtual Earth</a> on Monday but you can get to it today.
 
 So...I thought I'd play around with it a bit and see how it compares to Google Maps. After playing around with it for a few minutes I have to say that I'm somewhat impressed. And by somewhat impressed I mean that it actually 1/2 works inside Safari and actually located my home address properly. Other than that I can state that it's a disappointment.

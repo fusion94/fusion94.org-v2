@@ -4,8 +4,8 @@ title: 'SourceForge Founders'
 date: 2005-08-15 17:44
 comments: true
 categories : []
----  
-
+tags:
+---
 Once again into the breach.
 
 So over the years I've heard tons of people make the claim that they "did this" or "did that" with <a href="http://sf.net">SourceForge</a>. Here at <a href="http://feedster.com">Feedster</a> we even had a guy put on his resume that he was one of the SourceForge Developers. Now I see this from <a href="http://www.catb.org/~esr/software.html">Eric Raymond</a>.

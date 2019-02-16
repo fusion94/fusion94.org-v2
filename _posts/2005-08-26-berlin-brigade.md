@@ -4,8 +4,8 @@ title: 'Berlin Brigade'
 date: 2005-08-26 12:05
 comments: true
 categories : []
----  
-
+tags:
+---
 As many of you know I once served in the US Army for several years. My first assignment was to CSC, 4/502 Infantry Regiment, Berlin Brigade from 1986-1988. This was during the time that the Cold War was in full effect and Berlin at the time was still a walled city under control of the Russian, British, French, and US Military Commands. I bring this up as I was recently contacted by someone that I served with over there. It's good to hear from old friends and if there's anyone else out there that I served with during that time please feel free to email me.
 
 Here's a little history of the units that served there.

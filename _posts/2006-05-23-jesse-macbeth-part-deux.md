@@ -4,8 +4,8 @@ title: 'Jesse Macbeth Part Deux'
 date: 2006-05-23 11:45
 comments: true
 categories : []
----  
-
+tags:
+---
 I also went back to watched the videos a second time. In part 2 (it's a 3 part video) Jesse states "If i ever have to fight again man it'll be to take that asshole out of office." This was in the context of our President. Now the law is clear here:
 
 <blockquote>THREATS AGAINST PRESIDENT - 18 USC 871, makes it a Federal crime or offense for anyone to willfully make a true threat to injure or kill the President of the United States.

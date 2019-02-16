@@ -4,8 +4,8 @@ title: 'iTunes 4.9 + Podcasting Notes.'
 date: 2005-06-30 07:52
 comments: true
 categories : []
----  
-
+tags:
+---
 So on Tuesday <a href="http://www.apple.com/">Apple</a> released <a href="http://www.apple.com/itunes/">iTunes 4.9</a> with support for Podcasting built in. Up until now if you wanted to grab Podcasts you needed to use a client/tool like <a href="http://ipodderx.com/">iPodderX</a> or <a href="http://ipodder.sourceforge.net/index.php">iPodder</a>.
 
 So what is Podcasting exactly and why is it cool? Wikipedia defines Podcasting as:

@@ -4,8 +4,8 @@ title: 'Drupal 6 Code Freeze'
 date: 2007-07-02 11:02
 comments: true
 categories : [Drupal, Open Source]
----  
-
+tags:
+---
 Formal announcement tomorrow on the <a href="http://drupal.org">Drupal</a> website but it looks as though Drupal 6 is frozen as of today.
 
 

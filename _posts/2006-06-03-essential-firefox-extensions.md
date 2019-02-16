@@ -4,8 +4,8 @@ title: 'Essential Firefox Extensions'
 date: 2006-06-03 18:09
 comments: true
 categories : []
----  
-
+tags:
+---
 To go along with my post on <a href="http://fusion94.org/blog/2006/06/03/essential-os-x-software/">Essential OS X Software</a>, here's my list of "Essential Firefox Extensions".
 
 <a href="http://firefox.exxile.net/">All-In-One Sidebar</a>

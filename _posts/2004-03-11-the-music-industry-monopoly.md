@@ -4,8 +4,8 @@ title: 'The Music Industry Monopoly'
 date: 2004-03-11 16:11
 comments: true
 categories : []
----  
-
+tags:
+---
 <p>
 The rock band Korn just came out with a great music video about the major label monopoly and radio consolidation. Korn plays a concert in a record store, while trashing the record store.
 <p>

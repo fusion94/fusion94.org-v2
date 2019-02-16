@@ -4,8 +4,8 @@ title: 'SourceForge.net - 8 years old'
 date: 2007-11-19 01:00
 comments: true
 categories : [Open Source, SourceForge, VA Linux]
----  
-
+tags:
+---
 On Saturday, November 17th, 2007 SourceForge.net celebrated 8 years of life.
 
 Here are a few stats:

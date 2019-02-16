@@ -4,8 +4,8 @@ title: 'Online Movie Catalogue'
 date: 2006-04-23 00:45
 comments: true
 categories : []
----  
-
+tags:
+---
 I've tried a few online movie catalogues in the past and have always been disappointed with either the user interface, the export features or the accuracy. I somehow stumbled upon <a href="http://movies.ajaxilicious.be/">Ajaxilicious::Movies</a> this evening and I must say that I'm fairly impressed with it as a whole.
 
 The developers describe the service as:

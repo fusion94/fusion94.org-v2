@@ -4,8 +4,8 @@ title: '“Essential” Essential Mix'
 date: 2005-06-25 11:15
 comments: true
 categories : []
----  
-
+tags:
+---
 So I'm going on record stating that if you don't listen to any other <a href="http://www.bbc.co.uk/radio1/dance/essentialmix/">Essential Mix</a> this year you have to listen to this one.
 
 It was done by <a href="http://www.sasha.co.uk/fr.php">Sasha</a> using nothing but his laptop and <a href="http://www.ableton.com/">Ableton Live</a>. It's 100% pure digital sweetness.

@@ -4,8 +4,8 @@ title: 'Oral Surgery Part II'
 date: 2003-11-18 11:23
 comments: true
 categories : []
----  
-
+tags:
+---
 Well it was far less painful than I imagined. Actually there was no pain at
 all. After spending an hour and a half waiting the whole procedure took about 5
 minutes. Typical isn't it. Plus I can't drink coffee for a couple of hours. So

@@ -4,8 +4,8 @@ title: 'The IT Crowd'
 date: 2006-03-04 09:29
 comments: true
 categories : []
----  
-
+tags:
+---
 If you're a fan of the <a href="http://www.bbc.co.uk/tv/">BBC TV</a> as I am (I'd pay for full access (BBC1, BBC2, BBC3,BBC4 etc) instead of just BBC America), then you've no doubt seen the show <a href="http://imdb.com/title/tt0111958/?fr=c2l0ZT1kZnx0dD0xfGZiPXV8cG49MHxrdz0xfHE9RmF0aGVyIFRlZHxmdD0xfG14PTIwfGxtPTUwMHxjbz0xfGh0bWw9MXxubT0x;fc=1;ft=22;fm=1">"Father Ted"</a>. Father Ted was brilliant in it's own right but this post is not about that.
 
 The creator of Father Ted, one <a href="http://imdb.com/name/nm0512627/">Graham Linehan</a> has a new show out called <a href="http://imdb.com/title/tt0487831/">"The IT Crowd"</a>.

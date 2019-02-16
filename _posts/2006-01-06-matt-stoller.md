@@ -4,8 +4,8 @@ title: 'Matt Stoller'
 date: 2006-01-06 11:04
 comments: true
 categories : []
----  
-
+tags:
+---
 I'm of the opinion that Matt Stoller is at best an idiot and at worst a fascist.
 
 From MyDD: (which might as well stand for "My Diseased Diencephalon" (go look it up you twit)).

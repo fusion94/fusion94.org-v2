@@ -4,8 +4,8 @@ title: 'Essential OS X Software'
 date: 2006-06-03 11:02
 comments: true
 categories : []
----  
-
+tags:
+---
 I've compiled a list of what I consider to be "Essential OS X Software". These applications are used by me daily and allow me to use my Mac's in the best way possible. Some of you may disagree with some of these applications and that's fine. This is afterall...my list.
 
 <u>General Applications</u>

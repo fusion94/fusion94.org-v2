@@ -4,8 +4,8 @@ title: 'Sprint Power Vision Phone A920'
 date: 2006-03-18 09:41
 comments: true
 categories : []
----  
-
+tags:
+---
 As mentioned in this <a href="http://fusion94.org/blog/2006/02/26/sprint-ambassador-program/">post</a> a few weeks ago I was asked to participate in the Sprint Ambassador Program and evaluate the Sprint Power Vision Service as well as a Sprint Power Vision Phone A920 (aka Samsung Model SPH-A920 Digital Dual Band Phone).
 
 Well about a week ago I received a package from FedEx that contained the following items:

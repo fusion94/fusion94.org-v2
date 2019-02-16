@@ -4,8 +4,8 @@ title: 'Stargate SG-1 done'
 date: 2006-08-23 06:09
 comments: true
 categories : []
----  
-
+tags:
+---
 The Sci-Fi channel has decided to not renew Stargate SG-1 past it's current 10th season. Stargate SG-1 is currently the longest-running science-fiction series on U.S. television to date.
 
 It has however decided to pick up a fourth season of its more-popular spinoff, "Stargate Atlantis."

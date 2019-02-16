@@ -4,8 +4,8 @@ title: 'Pure Pwnage'
 date: 2006-01-27 09:01
 comments: true
 categories : []
----  
-
+tags:
+---
 I had written a <a href="http://fusion94.org/blog/adding-metadata-tags-to-ipod-videos.htm">short tutorial</a> on adding Metadata tags to videos in Video iPod format a couple of weeks ago and hadn't really converted anything worth posting about. But one night this week I converted and tagged all of the <a href="http://www.purepwnage.com/">"Pure Pwnage"</a> videos over to the Video iPod format.
 
 Here are the download links:

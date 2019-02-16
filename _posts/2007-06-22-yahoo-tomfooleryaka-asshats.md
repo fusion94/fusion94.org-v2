@@ -4,8 +4,8 @@ title: 'Yahoo! Tomfoolery…aka Asshats.'
 date: 2007-06-22 13:50
 comments: true
 categories : [General, Yahoo, Mobile]
----  
-
+tags:
+---
 I believe this image says it all.
 
 <img src="/images/yahoo_asshats.png" alt="Yahoo Asshats" />

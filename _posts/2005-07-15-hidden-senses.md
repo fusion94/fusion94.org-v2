@@ -4,8 +4,8 @@ title: 'Hidden Senses'
 date: 2005-07-15 22:47
 comments: true
 categories : []
----  
-
+tags:
+---
 Leicester (United Kingdom) born Chris Chambers is a trance & progressive DJ who's talent has received recognition from the likes of Guy Ornadel.
 
 He's got an awesome set for download at his <a href="http://www.chrischambers.co.uk/">website</a> called "Hidden Senses" under online mixes section.

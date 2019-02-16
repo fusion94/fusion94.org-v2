@@ -4,8 +4,8 @@ title: 'Surf the web via a secure tunnel'
 date: 2007-07-12 09:46
 comments: true
 categories : [Apple/OSX, Snippets]
----  
-
+tags:
+---
 On occasion you may find yourself developing a site for a client who during the development phase will limit access to the site to a certain set of IP Addresses. This can be a real pain to deal with if your local IP is always changing.
 
 To deal with this I always get the client to grant access to the damagestudios.net IP address (which is fixed and located in a cage in Santa Clara)

@@ -4,8 +4,8 @@ title: 'Other Misc Apps'
 date: 2004-01-07 09:24
 comments: true
 categories : []
----  
-
+tags:
+---
 Just wanted to mention a couple of other OS X Applications I'm using.
 
 The first one is <a href="http://homepage.mac.com/mysoftware/">DVD Cache</a> and it's what I use to maintain and organize my DVD Collection. It's shareware but well worth the $20.

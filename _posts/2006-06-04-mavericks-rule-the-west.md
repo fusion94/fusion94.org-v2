@@ -4,8 +4,8 @@ title: 'Mavericks Rule the West'
 date: 2006-06-04 09:20
 comments: true
 categories : []
----  
-
+tags:
+---
 After being down by 18 points at one point the Mavs started playing some defense and made a few shots to take out the Phoenix Suns.
 
 The Mavs are going to the NBA finals for the first time in its 26-year history.

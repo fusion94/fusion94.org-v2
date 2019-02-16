@@ -4,8 +4,8 @@ title: 'Too Sexy for WoW'
 date: 2006-04-24 23:37
 comments: true
 categories : []
----  
-
+tags:
+---
 /amaze
 /chuckle
 /giggle

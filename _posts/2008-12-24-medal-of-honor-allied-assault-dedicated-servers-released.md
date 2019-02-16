@@ -4,8 +4,8 @@ title: 'Medal of Honor: Allied Assault Dedicated Servers Released'
 date: 2008-12-24 11:33
 comments: true
 categories : [Apple/OSX, Games, MoHAA, Software]
----  
-
+tags:
+---
 So I finally got around to releasing a package of the Medal of Honor: Allied Assault Dedicated Servers. 
 
 They can be downloaded <a href="/files/MoHAA_Dedicated_Servers_1.2.zip">here</a>.

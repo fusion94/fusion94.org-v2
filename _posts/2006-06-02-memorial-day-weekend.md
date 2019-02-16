@@ -4,8 +4,8 @@ title: 'Memorial Day Weekend'
 date: 2006-06-02 10:29
 comments: true
 categories : []
----  
-
+tags:
+---
 This past memorial day weekend was fairly busy for us with 6 get togethers over 3 days. On Sunday we headed over to <a href="http://www.spideysenses.com">Ted Rheingold's</a> birthday party where I sucked at pin the tail on the donkey.
 
 Ted was able to take this picture of Nicole and I though.

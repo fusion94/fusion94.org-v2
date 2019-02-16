@@ -4,8 +4,8 @@ title: 'Gabriel & Dresden.'
 date: 2005-08-03 10:39
 comments: true
 categories : []
----  
-
+tags:
+---
 So I picked up a new Gabriel & Dresden set last night that's pretty tight. It's their set from Live @ Room 960 (April 29, 2005) and here's the tracklisting (or as close as i can get).
 
 00. ?? (I think there are two songs with the acapella)??

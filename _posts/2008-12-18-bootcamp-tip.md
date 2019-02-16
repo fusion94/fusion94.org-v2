@@ -4,8 +4,8 @@ title: 'BootCamp Tip'
 date: 2008-12-18 10:03
 comments: true
 categories : [Apple/OSX,]
----  
-
+tags:
+---
 If you've got BootCamp installed and have it defaulting to boot into Windows then remove the Windows partion you're going to get a "No bootable disk found" screen everytime you boot up. 
 
 I still don't know why OSX isn't smart enough to handle this issue with more grace but that's another post altogether.

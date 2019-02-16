@@ -4,8 +4,8 @@ title: 'Bracewell Observatory'
 date: 2006-03-07 17:04
 comments: true
 categories : []
----  
-
+tags:
+---
 Stanford University has secured demolition permits from Santa Clara county and intend to pull down the Bracewell Observatory.
 
 The Bracewell Observatory is named for Professor Ronald Bracewell, a father of radio astronomy, who created the site and built the dishes. They've been sitting idle since Federal Funding was redirected elsewhere.

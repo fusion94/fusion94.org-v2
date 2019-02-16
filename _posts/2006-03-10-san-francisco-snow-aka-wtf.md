@@ -4,8 +4,8 @@ title: 'San Francisco Snow aka WTF ?'
 date: 2006-03-10 20:51
 comments: true
 categories : []
----  
-
+tags:
+---
 Tonights weather forecast:
 
 <blockquote>Tonight: Showers likely with scattered thunderstorms. Snow may mix with rain in the heavier showers. Some thunderstorms may produce small hail. Lows in the 30s to lower 40s. West winds 5 to 15 mph.</blockquote>

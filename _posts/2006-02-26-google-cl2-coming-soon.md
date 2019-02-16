@@ -4,8 +4,8 @@ title: 'Google CL2 Coming soon ?'
 date: 2006-02-26 23:49
 comments: true
 categories : []
----  
-
+tags:
+---
 How soon before we see Google Calendaring? Possibly sooner than expected.
 
 If you go to <a href="http://mail.google.com/mail/?view=barc">http://mail.google.com/mail/?view=barc</a> you can see the Google Links preferences and can add a link to Google CL2. There's also a logon but neither of them appear to work.

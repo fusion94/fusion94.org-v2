@@ -4,8 +4,8 @@ title: 'Ranger Honor Roll'
 date: 2006-05-23 12:05
 comments: true
 categories : []
----  
-
+tags:
+---
 The Ranger Creed was written by Command Sergeant Major Gentry in 1974. Today it is recited by Rangers during change of command ceremonies,regimental and battalion level physical training,upon graduation from Ranger school,and daily by young Rangers in the regiment.
 
 <font size="6">R</font>ecognizing that I volunteered as a Ranger,   fully knowing the hazards of my chosen profession.  I will always endeavor to uphold the prestige, honor and high "esprit de corps" of my Ranger Regiment.

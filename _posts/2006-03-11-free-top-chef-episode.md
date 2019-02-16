@@ -4,8 +4,8 @@ title: 'Free Top Chef Episode'
 date: 2006-03-11 22:57
 comments: true
 categories : []
----  
-
+tags:
+---
 The iTunes Music Store (iTMS) has a free episode of Top Chef available for download <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=128315130&s=143441">here</a>.
 
 From the <a href="http://www.bravotv.com/Top_Chef/">Bravo</a> description:

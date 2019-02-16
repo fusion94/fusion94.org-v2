@@ -4,8 +4,8 @@ title: 'Adding Metadata Tags to iPod Videos'
 date: 2006-01-15 21:56
 comments: true
 categories : []
----  
-
+tags:
+---
 In an <a href="http://fusion94.org/blog/video-ipod-guide.htm">earlier post</a> I linked to an <a href="http://plasticbugs.com/?p=305">excellent guide</a> that showed video iPod users how to convert their existing movies over to iPod compatible video.
 
 While this is an excellent guide it was lacking in how to read, parse, and set iTunes-style metadata into mpeg4 containers (m4a, m4b, m4p, m4v, mp4).

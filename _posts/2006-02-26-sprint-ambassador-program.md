@@ -4,8 +4,8 @@ title: 'Sprint Ambassador Program'
 date: 2006-02-26 22:57
 comments: true
 categories : []
----  
-
+tags:
+---
 So from out of nowhere I get the following email:
 
 <blockquote>

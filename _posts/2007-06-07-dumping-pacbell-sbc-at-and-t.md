@@ -4,8 +4,8 @@ title: 'Dumping PacBell/SBC/AT&T'
 date: 2007-06-07 12:05
 comments: true
 categories : [General, Internet]
----  
-
+tags:
+---
 And this is the reason.
 
 <center>

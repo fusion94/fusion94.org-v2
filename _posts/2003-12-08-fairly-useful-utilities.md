@@ -4,8 +4,8 @@ title: 'Fairly Useful Utilities'
 date: 2003-12-08 13:07
 comments: true
 categories : []
----  
-
+tags:
+---
 So I found a couple of useful OS X utilites the other day.
 
 One is a Mail.App enhancer and is called <a href="http://home.insightbb.com/~n9yty1/MailEnhancer/">MailEnhancer</a>. It provides 4 separate enhancements to Mail.App and I'm finding that the "Automatically update signature to match sending address" is the most useful for me so far as I use Mail.App to check 4 separate IMAP accounts.

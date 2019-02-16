@@ -4,8 +4,8 @@ title: 'New Position'
 date: 2006-04-12 17:09
 comments: true
 categories : []
----  
-
+tags:
+---
 Some of you may know while others may not, but I'm happy to announce that I've officially joined <a href="http://omnidrive.com">Omnidrive</a> as their CTO.
 
 Omnidrive is a hosted storage platform that is currently in private alpha testing to a limited subset of users. Omnidrive promises to change the way you access and share your files from whichever device you are on.

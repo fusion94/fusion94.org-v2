@@ -4,8 +4,8 @@ title: 'Eclipse for Drupal Development'
 date: 2007-06-16 18:07
 comments: true
 categories : [Drupal, Open Source, Eclipse]
----  
-
+tags:
+---
 After trying out several editors and IDE's for software development I've decided to settle on using <a href="http://www.eclipse.org/pdt/index.php">Eclipse</a> for 95% of the work I do and I'll use Xcode only when forced to.
 
 This quick blog post will assist you in getting Eclipse configured for developing anything to do with <a href="http://drupal.org">Drupal</a>.

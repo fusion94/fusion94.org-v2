@@ -4,8 +4,8 @@ title: 'New System'
 date: 2006-02-04 21:59
 comments: true
 categories : []
----  
-
+tags:
+---
 So I've got a new System. It's a G5 Desktop, 1.8ghz, 2GB RAM, and 2 20" Cinema Displays.
 
 Here's a screenshot of the desktop.

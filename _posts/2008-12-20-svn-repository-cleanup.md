@@ -4,8 +4,8 @@ title: 'SVN Repository Cleanup'
 date: 2008-12-20 22:25
 comments: true
 categories : [SVN, Snippets, find]
----  
-
+tags:
+---
 I've spent the past few hours doing some pretty massive SVN repository cleanup for all of my personal projects. One annoyance is all of the .svn directories that occasionally have to be located and removed before you can recommit.
 
 Here's a quick one-liner to assist you in this. Let's say you have a couple of top level directories that look something like this:

@@ -4,8 +4,8 @@ title: 'Airplanes and Flying.'
 date: 2005-06-21 10:02
 comments: true
 categories : []
----  
-
+tags:
+---
 So why is that on every commercial flight everyone and their brother tries to take onboard like 4 suitcases where each one is large enough to put the remains of Jimmy Hoffa in?
 
 People...2 carryon's only and one has to fit under the seat in front of you and the other must fit in the overhead bin. This isn't too hard to understand. You don't have to have a Physics degree from MIT to get this. Morons.

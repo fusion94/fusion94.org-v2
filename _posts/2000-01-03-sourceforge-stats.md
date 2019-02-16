@@ -4,8 +4,8 @@ title: 'SourceForge Stats'
 date: 2000-01-03 20:04
 comments: true
 categories : [SourceForge, Open Source, VA Research]
----  
-
+tags:
+---
 Well here are some rough <a href="http://sourceforge.net">SourceForge</a> stats after about 6 weeks.
 
 * 700+ Projects

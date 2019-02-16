@@ -4,8 +4,8 @@ title: 'Anarchy Online'
 date: 2003-11-17 16:58
 comments: true
 categories : []
----  
-
+tags:
+---
 My relationship with <a href="http://www.anarchyonline.com/">Anarchy Online</a> has truly been a love/hate relationship.
 
 I beta-tested the primary release and played at least 3-4 hours a day for the first year. After that first year Funcom still had major issues with the game and as most of my friends that had played AO were leaving I hung up my spurs so to speak.

@@ -4,8 +4,8 @@ title: 'Ali G & Steve Nash Commercial'
 date: 2005-10-17 21:20
 comments: true
 categories : []
----  
-
+tags:
+---
 So the Ali G & Steve Nash commercial on TNT about the upcoming NBA season is funny as hell. I'll paraphrase it.
 
 "We're here with Steve Nash who was last season's MP3."

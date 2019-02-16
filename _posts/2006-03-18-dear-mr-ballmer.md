@@ -4,8 +4,8 @@ title: 'Dear Mr. Ballmer'
 date: 2006-03-18 15:47
 comments: true
 categories : []
----  
-
+tags:
+---
 <blockquote>After Sony announced on Tuesday that the Playstation 3 won't launch until November, the Xbox 360 is in a better position to become the top gaming console, says Microsoft CEO Steve Ballmer.
 
 "In every other generation, the first guy to 10 million consoles was the number one seller in the generation," Ballmer told FORTUNE in an interview on Thursday afternoon. "Did we just get an even better opportunity to be the first guy to 10 million? Yeah, of course we did."

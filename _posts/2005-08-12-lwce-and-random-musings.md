@@ -4,8 +4,8 @@ title: 'LWCE & Random Musings'
 date: 2005-08-12 11:21
 comments: true
 categories : []
----  
-
+tags:
+---
 So I've been in SF for a few weeks now and enjoying the weather. Spent most of the week over at LWCE and man has it changed. It's a far different experience now than it was 5-6 years ago. It's odd to walk the show floor and not see booths from companies such as VA Linux Systems (now VA Software) and Linuxcare (now Levanta).
 
 I was however able to catch up with old friends such as Lara K, Jim B, Arruda, Hakker, Term, and the Mej. I even saw dtype running around for a bit.

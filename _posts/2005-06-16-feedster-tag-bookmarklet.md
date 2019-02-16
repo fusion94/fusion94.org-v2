@@ -4,8 +4,8 @@ title: 'Feedster Tag Bookmarklet'
 date: 2005-06-16 12:16
 comments: true
 categories : []
----  
-
+tags:
+---
 Here's a quick and dirty <a href="http://bookmarklets.com">Bookmarklet</a> that will allow you to Tag Posts on <a href="http://feedster.com">Feedster</a>.
 
 To use, drag the link below onto your browser's toolbar (recommended), or save it as a bookmark. Invoking it will display a text entry box that will allow you to tag pages on Feedster.

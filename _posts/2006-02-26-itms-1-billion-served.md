@@ -4,8 +4,8 @@ title: 'iTMS - 1 Billion Served'
 date: 2006-02-26 09:46
 comments: true
 categories : []
----  
-
+tags:
+---
 During the evening/early morning of February 22/23, Alex Ostrovsky from Michigan purchased and downloaded the iTunes Music Store 1 billionth download (From the Music Service only). By doing so he won himself a new 20" iMac, 10 60gb iPods and a $10,000 Music Card for use with the iTMS.
 
 Some interesting iTMS stats:

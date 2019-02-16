@@ -4,8 +4,8 @@ title: 'Damage Studios Advisory Board.'
 date: 2002-12-10 21:47
 comments: true
 categories : [Gaming, Damage Studios]
----  
-
+tags:
+---
 So we've announced our Board of Advisors for Damage Studios. Here's a copy of the press release.
 
 > __Damage Studios Incorporated Forms Board of Advisors with Three Key Appointments__

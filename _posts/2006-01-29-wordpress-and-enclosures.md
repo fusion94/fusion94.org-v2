@@ -4,8 +4,8 @@ title: 'WordPress & Enclosures'
 date: 2006-01-29 15:29
 comments: true
 categories : []
----  
-
+tags:
+---
 One issue I've had with WordPress (2.0 and previous versions) is the way that it deals with enclosures and the enclosure element. Wordpress by default when you link to a .mp3 or a .mov file will automatically encapsulate the file and create an enclosure for it.
 
 The issue I have with this is that this should be abstracted out into Administrator Options and you should have the ability to turn this On or Off. Unfortunately this isn't possible.

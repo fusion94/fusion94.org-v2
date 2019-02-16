@@ -4,8 +4,8 @@ title: 'Oakely Gascans'
 date: 2006-01-22 21:33
 comments: true
 categories : []
----  
-
+tags:
+---
 I've been missing my <a href="http://oakley.com/o/o1274d">Oakley Juliet Plasma/Fire Iridium</a> for a few months now. I have no idea what happened to them (but I do have a few ideas) and I've been going nuts without them.
 
 So yesterday I bit the bullet and purchased a pair of <a href="http://oakley.com/o/o2222d">Oakley Gascans</a>. So far I really like them and they are great for those of us with huge noggins.

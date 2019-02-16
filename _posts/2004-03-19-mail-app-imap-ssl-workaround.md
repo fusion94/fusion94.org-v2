@@ -4,8 +4,8 @@ title: 'Mail.app imap-ssl workaround'
 date: 2004-03-19 12:08
 comments: true
 categories : []
----  
-
+tags:
+---
 I know this is old news but it took me awhile to locate this workaround and thought I'd share.
 
 If you use a mail server with imap-ssl that doesn't have a verified certificate, you get a pop up complaining whenever you open mail. If you click show certificate, there's a certificate icon you can supposedly drag to the desktop and then use in keychain according to apple's support webpages. Well, dragging that image crashes Mail.app.

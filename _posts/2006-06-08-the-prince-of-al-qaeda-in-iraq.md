@@ -4,8 +4,8 @@ title: 'The Prince of al Qaeda in Iraq'
 date: 2006-06-08 08:52
 comments: true
 categories : []
----  
-
+tags:
+---
 The 39-year-old Jordanian-born terrorist Abu Musab al-Zarqawi dubbed "The Prince of al Qaeda in Iraq" by Osama bin Laden had eluded U.S. and Iraqi authorities for years, often mocking them with recorded messages and videotapes.
 
 His luck ran out on Wednesday, when he was killed by a coalition airstrike on what was supposed to be a "safe house" in Baquba.

@@ -4,8 +4,8 @@ title: 'Bay Area Hypocrites….'
 date: 2007-11-15 23:22
 comments: true
 categories : [Politics, Bay Area]
----  
-
+tags:
+---
 So the news is out....Barry Bonds has been indicted for perjury. And it appears that some of the liberals in the Bay Area are now clamoring for his head. Here are a few quotes:
 
 "im a born sf chick, a lifelong giants fan......and i hope barry finally gets what he deserves! the arrogant person that he is. i can't stand the guy."

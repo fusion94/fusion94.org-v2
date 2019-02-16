@@ -4,8 +4,8 @@ title: 'Tool Modified'
 date: 2004-08-19 23:02
 comments: true
 categories : []
----  
-
+tags:
+---
 So I've modified one of the tools that the online activists are distributing to disrupt the GOP websites.
 
 Now it'll disrupt their own website. Get it <a target="new" href="http://fusion94.org/bhhb.pl">here</a>.

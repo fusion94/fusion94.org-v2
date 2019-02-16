@@ -4,8 +4,8 @@ title: 'Apple News'
 date: 2006-02-07 22:21
 comments: true
 categories : []
----  
-
+tags:
+---
 <a href="http://www.apple.com/">Apple Computer</a> today announced the addition of a <a href="http://www.apple.com/ipodnano/">1GB iPod Nano</a> to it's lineup. The pricing for this is $149.00. In addition they've dropped the prices of the <a href="http://www.apple.com/ipodshuffle/">1GB/512MB iPod Shuffle</a> to $99.00 and $69.00 respectively.
 
 They also announced that premium cable programming from <a href="http://www.sho.com/site/homepage/index.do">SHOWTIME</a>, including recent Golden Globe nominees “Sleeper Cell” and “Weeds,” is now available on the iTunes Music Store. With the addition of SHOWTIME hit programming, iTunes now offers more than 50 popular TV shows available for purchase.

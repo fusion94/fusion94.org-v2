@@ -4,8 +4,8 @@ title: 'Delivering and Redirecting Movable Type Feeds'
 date: 2005-07-04 14:35
 comments: true
 categories : []
----  
-
+tags:
+---
 Here's a little nugget to redirect feeds in Movable Type that's transparent to the end user and will not affect new or existing subscribers.
 
 It's really very simple and is nothing more than a 302 Redirect setup using a .htaccess file.

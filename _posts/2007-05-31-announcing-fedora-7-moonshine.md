@@ -4,8 +4,8 @@ title: 'Announcing Fedora 7 (Moonshine)'
 date: 2007-05-31 08:32
 comments: true
 categories : [Open Source, Fedora, RedHat]
----  
-
+tags:
+---
 Fedora 7 (Moonshine) is now out to the general public.
 
 This release includes significant new versions of many key components and technologies:

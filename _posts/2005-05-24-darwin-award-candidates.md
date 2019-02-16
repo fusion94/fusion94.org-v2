@@ -4,8 +4,8 @@ title: 'Darwin Award Candidates'
 date: 2005-05-24 10:46
 comments: true
 categories : []
----  
-
+tags:
+---
 survival of the fittest...
 
 <blockquote>24 May 2005

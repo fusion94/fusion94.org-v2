@@ -4,8 +4,8 @@ title: 'Mac OS X for Intel Processors (A Guide)'
 date: 2005-07-07 10:57
 comments: true
 categories : []
----  
-
+tags:
+---
 So the following guide comes from Steven Troughton-Smith over at <a href="http://grabberslasher.no-ip.com/macosx/">http://grabberslasher.no-ip.com/macosx/</a> mirrored with his permission.
 
 

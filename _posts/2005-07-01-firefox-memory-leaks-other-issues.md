@@ -4,8 +4,8 @@ title: 'Firefox Memory Leaks/Other Issues.'
 date: 2005-07-01 02:36
 comments: true
 categories : []
----  
-
+tags:
+---
 So if you've used Firefox you've probably noticed that it suffers from what can be described as a fairly harsh <i>"memory leak"</i>. The main cause of the problem appears to lie within the plugin for Flash content. There are 2 workarounds that I've located.
 
 The first is rather straightforward and simple but wasn't practical for me. All you have to do is un-install/remove the flash plugin and performance increases significantly.

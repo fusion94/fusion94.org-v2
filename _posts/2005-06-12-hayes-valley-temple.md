@@ -4,8 +4,8 @@ title: 'Hayes Valley Temple'
 date: 2005-06-12 08:46
 comments: true
 categories : []
----  
-
+tags:
+---
 So when I was in San Francisco last week Mondhipa and I ran to grab a cup of coffee over at <a href="http://bluebottlecoffee.net">Blue Bottle Coffee</a> (best coffee in SF by the way). While there we walked over to  take a look at the construction going on over on Hayes Valley/Hayes Green Area and saw this amazing temple. Well I finally located some information in regards to it. Turns out it was created by local artist David Best. It's really quite amazing to see.
 
 More information can be located about it at these links:<br />

@@ -4,8 +4,8 @@ title: 'Commenting'
 date: 2008-02-05 08:37
 comments: true
 categories : [Drupal, Blogging]
----  
-
+tags:
+---
 So I've turned anonymous commenting back on for blog posts. In the old Wordpress installation comment spam was handled by akismet and comments were moderated.
 
 Now that I've converted most of the content to Drupal I'm testing a new approach. Anonymous users can now comment again but they must fill out some rudimentary contact information as well as successfully submit a Math CAPTCHA. Once this is accomplished their comment will be published. 

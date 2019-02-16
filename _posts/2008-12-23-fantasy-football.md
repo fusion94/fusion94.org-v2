@@ -4,8 +4,8 @@ title: 'Fantasy Football'
 date: 2008-12-23 11:13
 comments: true
 categories : [Games, General]
----  
-
+tags:
+---
 My fantasy football season ended last night. 
 
 In the Skyfire League I ended up with the best overall record of 11-3 with 1,486 points scored and went into the playoffs as the #1 seed. I ended up losing my first playoff game but was able to rally and capture the third place trophy.

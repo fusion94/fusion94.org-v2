@@ -4,8 +4,8 @@ title: 'Apple and Intel Ad'
 date: 2006-01-10 21:05
 comments: false
 categories : []
----  
-
+tags:
+---
 Available for download are the new Apple/Intel Ads from Macworld.
 
 <img src="/images/macintel.jpg" border="0"/>

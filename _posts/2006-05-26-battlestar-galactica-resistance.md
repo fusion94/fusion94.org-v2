@@ -4,8 +4,8 @@ title: 'Battlestar Galactica: Resistance'
 date: 2006-05-26 11:21
 comments: true
 categories : []
----  
-
+tags:
+---
 The SciFi channel and NBC Universal have announced a 10 episode series available on the web only called Battlestar Galactica: Resistance.
 
 IGN has the story <a href="http://tv.ign.com/articles/709/709633p1.html">here</a>.

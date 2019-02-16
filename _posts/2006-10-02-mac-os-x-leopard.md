@@ -4,8 +4,8 @@ title: 'Mac OS X Leopard'
 date: 2006-10-02 19:52
 comments: true
 categories : []
----  
-
+tags:
+---
 I finally got around to installing Mac OS X Leopard on my MacBook Pro.
 
 <img src="/images/leopard.jpg" alt="Mac OS X Leopard" />

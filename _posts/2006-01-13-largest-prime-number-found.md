@@ -4,8 +4,8 @@ title: 'Largest Prime Number Found…'
 date: 2006-01-13 07:47
 comments: true
 categories : []
----  
-
+tags:
+---
 in my basement.
 
 <img src="http://fusion94.org/images/prime.jpg" alt="" align="left"/>No seriously, A team from Central Missouri State University who programmed a network of computers several years ago have hit paydirt. in mid-December, researchers found the world's largest prime number, known as M30402457. That's the same as 2 to the 30,402,457th power minus one, a number that is 9.1 million digits long.

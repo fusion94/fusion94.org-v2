@@ -4,8 +4,8 @@ title: 'The Humor Test'
 date: 2005-08-02 00:19
 comments: true
 categories : []
----  
-
+tags:
+---
 <table align="center" cellpadding="20"> <tbody><tr><td align="center"> <font size="5"><b>the Cutting Edge</b></font><br /> <center><font size="1">(60% dark, 52% spontaneous, 33% vulgar)</font></center> </td></tr><tr><td> <center>your humor style:<br /><b>CLEAN</b> | <b>SPONTANEOUS</b> | <b>DARK</b></center>
 <br /><br />
 Your humor's mostly innocent and off-the-cuff, but somehow there's something slightly menacing about you. Part of  your humor is making people a little uncomfortable, even if the things you say aren't in and of themselves confrontational. You probably have a very dry delivery, or are seriously over-the-top. Your type is the most  likely to appreciate a good insult and/or broken bone and/or very very fat person dancing.<br /><br />

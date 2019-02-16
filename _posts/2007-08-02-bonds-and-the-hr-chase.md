@@ -4,8 +4,8 @@ title: 'Bonds and the HR Chase'
 date: 2007-08-02 08:19
 comments: true
 categories : [Baseball, Politics]
----  
-
+tags:
+---
 Regardless of whether Bonds doped or not the fact of the matter is that up until 2004 Steroids were not illegal to use according to MLB rules. And it wasn't until 2006 that MLB decided to ban and test for greenies (amphetamines).
 
 I'm not saying that Aaron used either of these substances during the course of his career but we only have his word to verify this as testing by MLB wasn't done for either of these substances.

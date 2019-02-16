@@ -4,8 +4,8 @@ title: 'Windows Vista Beta 2 is now Public'
 date: 2006-06-09 11:09
 comments: true
 categories : []
----  
-
+tags:
+---
 Microsoft has made Windows Vista Beta 2 available to the masses for downloading in three different languages (English, German and Japanese). The released build number is 5384.4, which is the same as the technical beta.
 
 You can download Vista x86 English here:

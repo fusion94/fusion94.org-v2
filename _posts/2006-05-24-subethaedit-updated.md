@@ -4,8 +4,8 @@ title: 'SubEthaEdit Updated'
 date: 2006-05-24 08:50
 comments: true
 categories : []
----  
-
+tags:
+---
 My favourite OS X text editor <a href="http://www.codingmonkeys.de/subethaedit/index.html">SubEthaEdit</a> has been updated to version 2.5.
 
 New features include:

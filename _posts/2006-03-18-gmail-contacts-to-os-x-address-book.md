@@ -4,8 +4,8 @@ title: 'Gmail Contacts to OS X Address Book'
 date: 2006-03-18 10:44
 comments: true
 categories : []
----  
-
+tags:
+---
 As mentioned before on this blog, Nicole has made the switch over to OS X with the purchase of a Mac Book Pro. One of the issues that has arisen is that when she left her old company she also made the move from hotmail to gmail and she had converted all of her contacts into a format that gmail could deal with. ***She is still using gmail but has since moved off the web based client and is now using Mail.App as her client of choice primarily due to the fact that she can use "folders" under Mail.App.***
 
 Well now that she's using Mail.App it was time to export her gmail contacts into a file then import them into Address Book. Only issue is that Address Book doesn't like importing .csv files (it will only import  vCards, LDIF, Text) and gmail doesn't export into any other format.

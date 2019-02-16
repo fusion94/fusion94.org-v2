@@ -4,8 +4,8 @@ title: 'Happy Valentine’s Day from Apple'
 date: 2006-02-14 18:30
 comments: true
 categories : []
----  
-
+tags:
+---
 <a href="http://apple.com">Apple Computer</a> has also given us a Valentine's day gift in the form of Mac OS X Update version 10.4.5. Listed below is the changelog.
 
 

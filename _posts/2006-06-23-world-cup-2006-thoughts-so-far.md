@@ -4,8 +4,8 @@ title: 'World Cup 2006 Thoughts so far'
 date: 2006-06-23 12:45
 comments: true
 categories : []
----  
-
+tags:
+---
 The US Team did about as well as they could considering the grouping they were in as well as the players and coaches they had.
 
 One thing I do believe though it that it's time for Bruce Arena to step down as coach of the National Team. In fact Nick Webster over at FOX Sports <a href="http://blogs.foxsports.com/Nick_Webster/2006/06/18/Arena_OutKlinsmann_in">mentions in his blog</a> that Jurgen Klinsmann, the current German national team coach, has held talks with USSF Officials already in regards to taking over the US Program.

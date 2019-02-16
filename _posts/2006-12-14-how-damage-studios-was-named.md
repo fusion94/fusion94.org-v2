@@ -4,8 +4,8 @@ title: 'How Damage Studios was named'
 date: 2006-12-14 19:37
 comments: true
 categories : []
----  
-
+tags:
+---
 When Damage Studios was started (Officially Oct 9, 2002), myself and the other 2 co-founders spent some time trying to come up with a name for the company that conveyed who we were as well as trying to tie that name into Video Games.
 
 I remember sitting in my living room on Twin Peaks in San Francisco spending about 2 hours with the other co-founders in front of a mobile whiteboard trying to come up with something we all liked.

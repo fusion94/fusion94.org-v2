@@ -4,8 +4,8 @@ title: 'Major Freeman'
 date: 2006-06-03 11:04
 comments: true
 categories : []
----  
-
+tags:
+---
 In stark contrast to the Jesse Macbeth debacle I present you Army Maj. Chase A. Freeman, of Ponca City, Nebraska, who was awarded a Bronze Star medal of valor for his role in a firefight in Afghanistan on Oct. 10, 2005.
 
 <blockquote>

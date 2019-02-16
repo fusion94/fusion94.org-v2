@@ -4,8 +4,8 @@ title: 'World of Warcraft 1.8 Patch Notes (Unofficial)'
 date: 2005-09-15 21:50
 comments: true
 categories : []
----  
-
+tags:
+---
 Here is the current (unofficial) patch notes for the
 next major patch for World of Warcraft.
 

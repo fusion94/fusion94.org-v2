@@ -4,8 +4,8 @@ title: 'More Rumblings and Grumblings'
 date: 2003-11-19 23:05
 comments: true
 categories : []
----  
-
+tags:
+---
 Just random bits of cruftiness......
 
 I feel much better today. I was afraid that I was going to be useless for a couple of days afer the Surgery but I haven't had any issues at all related to it. This is very good and unexpected to be quiet honest. I'm even back to eating normal foods today.

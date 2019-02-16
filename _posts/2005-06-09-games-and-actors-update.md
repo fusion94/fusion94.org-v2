@@ -4,8 +4,8 @@ title: 'Games and Actors (UPDATE)'
 date: 2005-06-09 13:48
 comments: true
 categories : []
----  
-
+tags:
+---
 So I logon this morning and read over at <a href="http://www.wired.com/news/business/0,1367,67803,00.html?tw=rss.TOP">Wired</a> that there's been a settlement between SAG Actors and video game developers.
 
    <blockquote> SAN FRANCISCO -- Hollywood actors unions have reached a contract deal with video game publishers, accepting higher pay instead of the profit-sharing they had demanded, the unions said Wednesday, removing the threat of a strike.

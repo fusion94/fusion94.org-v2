@@ -4,8 +4,8 @@ title: 'New Drupal 5 release'
 date: 2008-01-28 16:34
 comments: true
 categories : [Drupal, Open Source]
----  
-
+tags:
+---
 Drupal 5.7 was just released.
 
 There are no new features in this release. Only bug fixes.

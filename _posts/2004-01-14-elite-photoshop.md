@@ -4,8 +4,8 @@ title: 'Elite Photoshop'
 date: 2004-01-14 09:35
 comments: true
 categories : []
----  
-
+tags:
+---
 I don't know who this guy is but he has <a href="http://bbs.popv.net/dispbbs.asp?BoardID=26&#38;id=257280">mad photoshop skills</a>. (Warning: might take awhile to load)
 
 Simply Amazing.

@@ -4,8 +4,8 @@ title: 'Paul Thurrott is an idiot'
 date: 2004-03-11 20:11
 comments: true
 categories : []
----  
-
+tags:
+---
 From his WinInfo Site:
 
 "The moderate security flaw for MSN Messenger 6.1 and MSN Messenger 6.0 could let attackers view--but not change or download--files on the victim's computer. Microsoft will fix the flaw in an upcoming version of the Instant Messaging (IM) application the company plans to issue."

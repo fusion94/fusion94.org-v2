@@ -4,8 +4,8 @@ title: 'Adding FeedLounge as a Feed Reader to Firefox 2'
 date: 2006-10-25 12:36
 comments: true
 categories : []
----  
-
+tags:
+---
 <a href="http://www.getfirefox.com">Firefox 2</a> has been released and after using the last 2 Release Candidates it's as good as promised.
 
 One new features is Previewing and subscribing to Web feeds: Users can decide how to handle Web feeds, either subscribing to them via a Web service or in a standalone RSS reader, or adding them as Live Bookmarks. My Yahoo!, Bloglines and Google Reader come pre-loaded as Web service options, but users can add any Web service that handles RSS feeds.

@@ -4,8 +4,8 @@ title: 'Zend Framework and svn:externals'
 date: 2008-12-17 23:41
 comments: true
 categories : [PHP, Snippets, SVN, Zend Framework, Software Engineering]
----  
-
+tags:
+---
 The majority of the work I've been involved with at <a href="http://www.skyfire.com">Skyfire</a> has involved the <a href="http://framework.zend.com/">Zend Framework</a>. When I first got there they were downloading the latest copy from the Zend website and checking into their repository.
 
 I had used svn:externals quite a bit while at <a href="http://contentcircles.com">Content Circles</a> to pull down vendor branches and decided to re-implement this at <a href="http://www.skyfire.com">Skyfire</a>.

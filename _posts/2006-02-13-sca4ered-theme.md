@@ -4,8 +4,8 @@ title: 'Sca4ered Theme'
 date: 2006-02-13 22:23
 comments: true
 categories : []
----  
-
+tags:
+---
 I switched the site over to the <a href="http://dancameron.org/wordpress/sca4ered-theme/">Sca4ered</a> theme designed by <a href="http://dancameron.org/">Dan Cameron</a> a few weeks ago. I really like the color scheme used which is why I chose to go with. Well in that vein I've created a couple of different header images that can be used with the theme.
 
 <strong>Sca4ered Blue</strong>

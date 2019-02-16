@@ -4,8 +4,8 @@ title: 'SourceForge Code Release'
 date: 2000-01-14 11:48
 comments: true
 categories : [Open Source, SourceForge]
----  
-
+tags:
+---
 Well today we released the first GPL version of the <a href="http://sourceforge.net/">SourceForge</a> code base.
 
 You can download it from <a href="http://sourceforge.net/projects/alexandria/">here</a>.

@@ -4,8 +4,8 @@ title: 'Antiwar Movement shoots itself.'
 date: 2006-05-23 11:29
 comments: true
 categories : []
----  
-
+tags:
+---
 I'm not here to go into great detail as to whether or not I support the current situation in Iraq. I've got friends in-country now that are on their second tours of duty there as well as some friends that have done tours in both Iraq and Afghanistan. Regardless of my views I will support my friends there.
 
 Anyways, the Antiwar movement, more specifically the "Iraq Veterans Against The War" has just suffered a "self-inflicted" gunshot wound to the head.

@@ -4,8 +4,8 @@ title: 'Subversion Tip'
 date: 2006-04-28 08:40
 comments: true
 categories : []
----  
-
+tags:
+---
 Grabbed this little tip from the web. If you've ever had to add multiple files to a subversion repository from the command line then you understand the pain involved. This pain can be reduced by running:
 <em>
 svn status | grep \? | cut -f7 -d' ' | xargs svn add</em>

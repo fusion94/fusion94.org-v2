@@ -4,8 +4,8 @@ title: 'Silly Silly People. (**UPDATED**)'
 date: 2005-11-08 23:54
 comments: true
 categories : []
----  
-
+tags:
+---
 <blockquote>Voters approved ballot measures to ban handguns in San Francisco and urge the city's public high schools and college campuses to keep out military recruiters Tuesday.
 
 Measure H prohibits the manufacture and sale of all firearms and ammunition in the city, and make it illegal for residents to keep handguns in their homes or businesses.

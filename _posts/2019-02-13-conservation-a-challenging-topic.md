@@ -5,6 +5,7 @@ date: 2019-02-13 20:18:38
 comments: true
 published: true
 tags: conservation
+featured_image: /img/big-imgs/montana-1.jpg
 ---
 
 This is the first article in a series of articles that relate to various forms of Conservation.

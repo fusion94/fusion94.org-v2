@@ -61,6 +61,10 @@ plugins:
 paginate: 5
 paginate_path: "/blog/page:num/"
 
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
 disqus: "fusion94org"
 
 post:

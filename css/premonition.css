@@ -24,10 +24,10 @@
   font-size: 18px;
   opacity: .3;
   padding-top: 2px;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
-.premonition .content {
+.premonition .content p {
   color: rgba(0, 0, 0, 0.5);
   padding-right: 40px;
 }

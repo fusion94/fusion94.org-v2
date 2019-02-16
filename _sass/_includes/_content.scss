@@ -85,6 +85,26 @@
 		}
 	}
 
+    .premonition {
+		margin-left: auto;
+		margin-right: auto;	
+
+		@include mq(tabletp) {
+		}
+
+		@include mq(tabletl) {
+			max-width: 80%;
+		}
+
+		@include mq(laptop) {
+			max-width: 75%;
+		}
+
+		@include mq(desktop) {
+			max-width: 70%;
+		}
+	}
+	
 	hr {
 		margin: 20px auto;
 
@@ -112,17 +132,43 @@
 		margin: 20px auto;
 
 		@include mq(tabletp) {
-			margin: 30px auto;
+		}
+
+		@include mq(tabletl) {
+			max-width: 80%;
 		}
 
 		@include mq(laptop) {
-			margin: 40px auto;
+			max-width: 75%;
+		}
+				
+		@include mq(desktop) {
+			max-width: 70%;
 		}
 	}
 
 	blockquote p {
 		max-width: 100%;
 		padding: 0;
+
+		margin-left: auto;
+		margin-right: auto;	
+
+		@include mq(tabletp) {
+		}
+
+		@include mq(tabletl) {
+			max-width: 80%;
+		}
+
+		@include mq(laptop) {
+			max-width: 75%;
+		}
+				
+		@include mq(desktop) {
+			max-width: 70%;
+		}
+
 	}
 
 	p a {

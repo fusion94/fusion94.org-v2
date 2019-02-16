@@ -111,17 +111,28 @@ So how much money does this actually mean? Well here are the breakdowns for 2018
 |||||
 |TOTAL|$351,917,483|$797,160,652|$1,149,078,135|
 
-So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Yep that's approximately $10 billion in spending by sportmen.
+So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Which come to approximately $10 billion in spending by sportmen.
 
 In comparison, in 2017 the Sierra Club received $68 million dollars in total contributions and spent $63 million dollars on program services. Essentially sportsmen from Michigan and North Carolina **combined** contributed the same amount as the Sierra Club in total. I'm not trying to paint the Sierra Club as a bad organization at all. Fundamentally there aren't bad. They just can't do enough.
+
+Since the first annual apportionment of $890,000 in 1939 by the U.S. Fish and Wildlife Service (USFWS), the agency has distributed more than $21 billion from the two federal excise taxes for state conservation and recreation projects.
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=207623445&amp;format=image"></iframe>
+</center>
+
+<div class="caption">
+This chart shows the trend of total P-R apportionment per fiscal year, from 2008 to 2017.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
 
 How can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
 
 Buying licenses, stamps and tags to legally hunt or fish in America is an essential and necessary means to supporting wildlife conservation. However, we can do more to conserve fish, wildlife and their habitat to ensure the future of hunting and fishing for future generations. Alternatively there are other ways as sportsmen to support Conservation such as the 2% for Conservation movement/organization.
 
 three books
- Hunting Trips of a Ranchman
- Ranch Life and the Hunting-Trail
- The Wilderness Hunter.
+* Hunting Trips of a Ranchman
+* Ranch Life and the Hunting-Trail
+* The Wilderness Hunter
 
 #### References

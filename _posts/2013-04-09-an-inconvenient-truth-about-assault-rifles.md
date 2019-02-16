@@ -3,8 +3,7 @@ layout: post
 title: 'An Inconvenient Truth about Assault Rifles'
 date: 2013-04-09 22:16
 comments: true
-categories : []
-tags:
+tags: firearms, guns
 ---
 Let's start by clearing up a few misconceptions about so-called "assault rifles".  Technically speaking an assault rifle is a selective fire (selectable among either fully automatic, burst-capable, or, sometimes, semi-automatic modes of operation) rifle that uses an intermediate cartridge and a detachable magazine.
 

@@ -4,7 +4,7 @@ title: "Home Automation with home-assistant"
 date: 2019-02-02 08:35:11
 comments: true
 published: true
-categories: 
+tags: ha, automation, home automation
 ---
 
 Late in 2017 I started to automate as much as our home as possible. After much trial and error I settled on [Home Assistant](https://www.home-assistant.io). 

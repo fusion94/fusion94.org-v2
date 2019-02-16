@@ -4,7 +4,7 @@ title: "A Renewed Focus"
 date: 2019-02-11 08:51:28
 comments: true
 published: true
-categories:
+tags: blogging
 ---
 
 So I've been an on/off again blogger since 1999. Mostly on from 2003-2008 then pretty much off since then. While I've had the occasional random post since 2008 there's been nothing consistent to speak of.

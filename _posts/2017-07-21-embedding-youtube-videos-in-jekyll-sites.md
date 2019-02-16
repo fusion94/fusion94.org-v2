@@ -4,7 +4,7 @@ title: "Embedding YouTube Videos in Jekyll Sites"
 date: 2017-07-21 19:48:15
 comments: true
 published: true
-categories: 
+tags: blogging
 ---
 
 If you're embedding YouTube videos on your Jekyll site it can be a pain in the butt to include the YouTube embed code every time. Here is an easy way to use includes instead of using a plugin.

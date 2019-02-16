@@ -3,7 +3,7 @@ layout: post
 title: "Firearm Ownership in the US"
 date: 2013-01-10 11:00
 comments: true
-categories: [Firearms, US, Constitution]
+tags: firearms, US, Constitution, guns
 ---
 
 <div class="errorbox">This post will probably piss people off. From both sides of the equation.</div>

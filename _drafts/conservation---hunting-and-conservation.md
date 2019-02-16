@@ -1,22 +1,24 @@
 ---
 layout: post
 title: "Conservation - Hunting and Conservation"
-date: 2019-02-12 19:07:26
+date: 2019-02-16 05:07:26
 comments: true
 published: true
-categories: 
+tags: conservation 
+featured_image: /img/featured/montana-3.jpg
 ---
 
 This is the second article in a series of articles that relate to various forms of Conservation.
 
-> We need all citizens to care, we need all citizens to believe, we need all citizens to engage, and we need to again make it understood that to be concerned about conservation is an act of citizenship.
-> -- Shane Mahoney
+> I recognize the right and duty of this generation to develop and use the natural resources of our land; but I do not recognize the right to waste them, or to rob, by wasteful use, the generations that come after us.
+> --  Theodore Roosevelt - President of the United States (#26)
 
 ### Hunting and Conservation
 
-I will admit my views on Conservation are skewed, or if you will biased, as someone who actively hunts and fishes. I've been performing these activities for close to 45 years now.
+> warning "Bias Check"
+> I will admit my views on Conservation are skewed, or if you will biased, as someone who actively hunts and fishes as I've been performing these activities for close to 45 years now.
 
-In our nation's early years, there were few laws protecting fish and wildlife and our wildlife resources took a heavy toll. Market hunters took fish and wildlife at will while habitat disappeared under plow and roads, resulting in devastating reductions in wildlife populations. Some species, like the passenger pigeon, were taken to the point of no return; others such as bison, white-tailed deer and wild turkeys, were pushed to the edge extinction.
+In our nation's early years, there were few laws protecting fish and wildlife and our wildlife resources took a heavy toll. Market hunters took fish and wildlife **at will** while habitat disappeared under plow and roads, resulting in devastating reductions in wildlife populations. Some species, like the passenger pigeon, were taken to the point of no return; others such as bison, white-tailed deer and wild turkeys, were pushed to the edge extinction.
 
 As the tides turned for conservation, important laws were passed, including the [Migratory Bird Treaty Act of 1918](https://en.wikipedia.org/wiki/Migratory_Bird_Treaty_Act_of_1918), the [Migratory Bird Hunting and Conservation Stamp Act of 1934](https://en.wikipedia.org/wiki/Federal_Duck_Stamp), and the [Federal Aid in Sport Fish Restoration Act of 1950](https://en.wikipedia.org/wiki/Dingell%E2%80%93Johnson_Act). Collectively, these acts laid the foundation for what inspired the North American Model of Wildlife Conservation.
 
@@ -26,7 +28,7 @@ Across North America, hunting was a largely unregulated activity for individuals
 2. **Markets for game are eliminated**. Before wildlife protection laws were enacted, commercial operations decimated populations of many species. Making it illegal to buy and sell meat and parts of game and nongame species removed a huge threat to the survival of those species. A market in furbearers continues as a highly regulated activity, often to manage invasive wildlife.
 3. **Allocation of wildlife by law**. Wildlife is a public resource managed by government. As a result, access to wildlife for hunting is through legal mechanisms such as set hunting seasons, bag limits, license requirements, etc.
 4. **Wildlife can only be killed for a legitimate purpose**. Wildlife is a shared resource that must not be wasted. The law prohibits killing wildlife for frivolous reasons.This is a text with a footnote
-5. **Wildlife specThis is a text with a footnote an international resource**. Some species, such as migratory This is a text with a footnotenal boundaries. Treaties such as the Migratory Bird Treaty and CITES recognize a shared responsibility to manage these species across national boundaries.
+5. **Wildlife is an international resource**. Some species, such as migratory This is a text with a footnotenal boundaries. Treaties such as the Migratory Bird Treaty and CITES recognize a shared responsibility to manage these species across national boundaries.
 6. **Science is the proper tool for discharge of wildlife policy**. In order to manage wildlife as a shared resource fairly, objectively, and knowledgeably, decisions must be based on sound science such as annual waterfowl population surveys and the work of professional wildlife biologists.
 7. **The democracy of hunting**. In keeping with democratic principles, government allocates access to wildlife without regard for wealth, prestige, or land ownership.
 
@@ -145,4 +147,7 @@ Most importantly, the networks of businesses and individuals engaged in the 2% f
 (i.e., $50,000 annual income *0.01 = $500)<br>
 (i.e, $90 of annual membership(s) to conservation groups + $200 of raffle tickets at banquets + $150 of product from 2% Member Companies + $60 of silent auction items at banquets = $500 contributed to conservation)
 
-
+ three books
+ Hunting Trips of a Ranchman
+ Ranch Life and the Hunting-Trail
+ The Wilderness Hunter.

@@ -95,11 +95,12 @@ If this is important to you here's how to act.
 Many people don't know who their senators and representatives are. And that's okay! You can go [here](http://www.house.gov/representatives/find/) and input your zip code or state; it will tell you who your elected officials are. Once you have the names, you can find their contact information [here](http://www.house.gov/representatives/).
 
 2) Once you've located your Representative you can either email or call them asking for them to support the bill. A sample email is listed below.
-   
+
+> info ""
 > Subject: Please Support S. 47
-> 
+>
 > Dear [[Recipient's Title and Name]]:
-> 
+>
 > I strongly urge you to consider Sens. Lisa Murkowski (R-AK) and Maria Cantwell's (D-WA) public lands package (S. 47) on the House floor.<br><br>
 > The Senate Energy and Natural Resources and House Natural Resources committees and many others worked around the clock last Congress to develop a bipartisan public lands package that includes the following:
 >-	Permanently reauthorization of the Land and Water Conservation Fund with 3 percent dedicated to securing access opportunities for hunters and anglers;

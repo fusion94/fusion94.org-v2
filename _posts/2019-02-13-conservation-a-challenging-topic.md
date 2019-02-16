@@ -17,11 +17,13 @@ I believe that this can be a challenging topic to discuss at times depending on 
 
 Let's start by defining Conservation at it's very base level:
 
+> info ""
 > Conservation may refer to the preservation or efficient use of resources (in an efficient or ethical manner), or the conservation of various quantities under physical laws.
 
 To be clear, the terms *conservation* and *preservation* are frequently thought of as one and the same. This is not necessarily the case.  The [US National Park Service](https://www.nps.gov/) offers the following explanation of the important ways in which these two terms represent very different conceptions of environmental protection ethics:
 
-> ″Conservation and preservation are closely linked and may indeed seem to mean the same thing. Both terms involve a degree of protection, but how that protection is carried out is the key difference. Conservation is generally associated with the protection of natural resources, while preservation is associated with the protection of buildings, objects, and landscapes. Put simply, **conservation** seeks the proper use of nature, while **preservation** seeks protection of nature from use.
+> info ""
+> Conservation and preservation are closely linked and may indeed seem to mean the same thing. Both terms involve a degree of protection, but how that protection is carried out is the key difference. Conservation is generally associated with the protection of natural resources, while preservation is associated with the protection of buildings, objects, and landscapes. Put simply, **conservation** seeks the proper use of nature, while **preservation** seeks protection of nature from use.
 
 In laymans terms, Conservationists sought to regulate human use while preservationists sought to eliminate human impact altogether[^1].
 
@@ -133,6 +135,7 @@ In conclusion I hope that you better understand the difference between Conservat
 
 ### Additional Information
 
+> note ""
 > fusion94.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 If you're interested in learning more about Conservation I do recommend the following books:
@@ -144,13 +147,15 @@ If you're interested in learning more about Conservation I do recommend the foll
 
 Additionally you might find the Conversation Matters Podcast very interesting.
 
+> info ""
 > Shane Mahoney, a Newfoundland Native is the President and CEO of Conservation Visions Inc. He has earned an advance degree in Zoology and has over 30 years of experience working as a scientist, wildlife manager, advisor and policy maker as well as a filmmaker, writer, narrator, lecturer and  tv and radio personality, all within the scope of conservation.
-
+>
 > A recognized expert of the North American Model of wildlife conservation, Mahoney is a vocal proponent of sustainable use and communicating conservation to the general public while promoting hunting as a important tool in the preservation of species on the landscape.
-
+>
 >Shane has recently launched his very own podcast entitled "Conservation Matters with Shane Mahoney". The podcast topics are driven by Shane's previous speaking engagements throughout the world regarding the challenges to conservation and the environment in an ever changing world.
 
-[![alt text](/img/podcasts/apple.png "Conservation Matters Podcast")](https://itunes.apple.com/us/podcast/conservation-matters-podcast/id1103982317?mt=2)<br><br>
+[![alt text](/img/podcasts/apple.png "Conservation Matters Podcast")](https://itunes.apple.com/us/podcast/conservation-matters-podcast/id1103982317?mt=2)
+
 [![Foo](/img/podcasts/google.png "Conservation Matters Podcast")](https://www.google.com/podcasts?feed=aHR0cDovL2NvbnNlcnZhdGlvbnZpc2lvbnMubGlic3luLmNvbS9yc3M)
 
 More information in regards to Shane's work can be located on his [website](http://conservationvisions.com). He has also provided digital copies of all his [articles/reports/presentations and keynotes](http://conservationvisions.com/works).

@@ -6,6 +6,7 @@ comments: true
 published: true
 tags: conservation
 featured_image: /img/featured/montana-1.jpg
+series: "Intro to Conservation"
 ---
 
 This is the first article in a series of articles that relate to various forms of Conservation.

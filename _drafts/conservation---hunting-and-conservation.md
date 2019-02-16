@@ -6,9 +6,8 @@ comments: true
 published: true
 tags: conservation 
 featured_image: /img/featured/montana-3.jpg
+series: "Intro to Conservation"
 ---
-
-This is the second article in a series of articles that relate to various forms of Conservation.
 
 > "I recognize the right and duty of this generation to develop and use the natural resources of our land; but I do not recognize the right to waste them, or to rob, by wasteful use, the generations that come after us."
 >

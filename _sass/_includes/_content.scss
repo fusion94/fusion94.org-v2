@@ -104,7 +104,27 @@
 			max-width: 70%;
 		}
 	}
-	
+
+	.panel {
+		margin-left: auto;
+		margin-right: auto;	
+
+		@include mq(tabletp) {
+		}
+
+		@include mq(tabletl) {
+			max-width: 80%;
+		}
+
+		@include mq(laptop) {
+			max-width: 75%;
+		}
+
+		@include mq(desktop) {
+			max-width: 70%;
+		}
+	}
+
 	hr {
 		margin: 20px auto;
 

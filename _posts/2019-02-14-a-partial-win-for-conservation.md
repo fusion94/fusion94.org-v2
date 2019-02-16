@@ -7,6 +7,7 @@ published: true
 categories: 
 tags: conservation
 featured_image: /img/featured/montana-2.jpg
+series: "Intro to Conservation"
 ---
 
  A vote by the U.S. Senate on Tuesday supported a massive package of conservation and public access bills that permanently reauthorizes the Land and Water Conservation Fund and advances other key measures, edging hunters, anglers and other outdoor enthusiasts closer to a hard-won and long-awaited victory.

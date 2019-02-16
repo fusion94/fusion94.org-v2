@@ -24,12 +24,14 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      comments: false  # add comments to all blog posts
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      comments: true  # add comments to all blog posts
   -
     scope:
       path: ""
@@ -41,7 +43,7 @@ markdown: kramdown
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter: rougeS
 
 sass:
   style: compressed
@@ -53,12 +55,20 @@ plugins:
   - liquid_pluralize
   - premonition
   - jekyll-seo-tag
+  - jekyll-compose
 
 paginate: 6
 paginate_path: "/blog/page:num/"
 
 disqus: "fusion94org"
 
+post:
+  template: _post.txt
+  extension: md
+#page:
+#  template: _page.txt
+#  extension: md
+editor: code
 git:
   branch: master
 transfer:

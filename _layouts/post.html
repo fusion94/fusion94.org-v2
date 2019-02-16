@@ -7,7 +7,8 @@ layout: default
 	<div class="wrap">
 
     <h1>{{ page.title }}</h1>
-		<p>{{ page.date | date_to_long_string }}</p>
+    <p>{{ page.date | date_to_long_string }}</p><br>
+    <p><b>This article will take {{ content | reading_time_as_i }} to read</b></p>
 	</div>
 
 </section>
@@ -15,9 +16,7 @@ layout: default
 <section class="single">
 
 	<div class="wrap">
-      <div class="notify notify-green"><span class="symbol icon-tick"></span>
-    <p> <b>This article will take {{ content | reading_time_as_i }} to read.</p></b></p>
-      </div>
+      
 		{{ page.content }}
 
     {% if page.comments %}

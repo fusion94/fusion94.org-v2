@@ -55,8 +55,9 @@ plugins:
   - liquid_pluralize
   - premonition
   - jekyll-seo-tag
-  - jekyll-compose
-
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+  
 paginate: 6
 paginate_path: "/blog/page:num/"
 

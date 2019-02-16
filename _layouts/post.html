@@ -18,6 +18,19 @@ layout: default
 	<div class="wrap">
       
 		{{ page.content }}
+    
+    {% if site.related_posts.size >= 1 %}
+    <div>
+      <br><br><br>
+      <h4>Related Posts</h4>
+      <ul>
+      {% for related_post in site.related_posts limit: 5 %}
+        <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+      {% endfor %}
+      </ul>
+     <br><br> 
+    </div>
+    {% endif %}
 
     {% if page.comments %}
     <div class="disqus-comments">

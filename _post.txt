@@ -4,5 +4,6 @@ title:
 date:
 comments: true
 published: true
-categories: 
+tags:
+featured_image: /images/demo/demo-portrait.jpg 
 ---

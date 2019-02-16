@@ -5,6 +5,7 @@ date: 2019-02-02 08:35:11
 comments: true
 published: true
 tags: ha, automation, home automation
+featured_image: /img/featured/ha.png
 ---
 
 Late in 2017 I started to automate as much as our home as possible. After much trial and error I settled on [Home Assistant](https://www.home-assistant.io). 

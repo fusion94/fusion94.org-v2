@@ -247,7 +247,7 @@ blockquote p {
 }
 */
 
-.caption {
+.captions {
   background: #fff;
   border-left: 10px solid #505160;
   margin: 1.5em 10px;
@@ -257,8 +257,23 @@ blockquote p {
 	margin-right: auto;
 }
 
-.caption p {
-  display: inline;
+.captions p {
+	display: inline;
+	font-size: 0.90em;
+}
+
+.footnotes {
+  background: #fff;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline;
+	font-size: 0.90em;
+}
+
+.footnotes p {
+	display: inline;
+	font-size: 0.90em;
 }
 
 .symbol {

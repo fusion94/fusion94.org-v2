@@ -150,7 +150,7 @@ Buying licenses, stamps and tags to legally hunt or fish in America is an essent
 
 So how can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
 
-Some experts think it’s time to expand P-R taxes to more hunting- and shooting-related products.
+Some experts think it’s time to expand P-R taxes to more hunting and shooting-related products.
 
 Whit Fosburgh, president and CEO of the [Teddy Roosevelt Conservation Partnership](http://www.trcp.org/), thinks hunters should lobby to get items such as treestands, reloading equipment, powder, and primers included in P-R to increase the revenues that give them leverage in influencing conservation policy.
 

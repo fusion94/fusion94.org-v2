@@ -162,7 +162,7 @@ This in essence would extend the P-R tax to “outdoor products you can buy at R
 
 #### Passing New Legislation
 
-Currently there are three bills currently making their way through the legislative branch that would dedicate more money both directly, and indirectly, to hunting and shooting sports. 
+Currently, there are three bills currently making their way through the legislative branch that would dedicate more money both directly, and indirectly, to hunting and shooting sports. 
 
 They are:
 

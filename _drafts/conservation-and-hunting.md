@@ -148,7 +148,7 @@ Buying licenses, stamps and tags to legally hunt or fish in America is an essent
 
 #### Expanding the Excise Tax
 
-So how can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
+So how can we as sportsmen increase that number? Well, for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
 
 Some experts think it’s time to expand P-R taxes to more hunting and shooting-related products.
 

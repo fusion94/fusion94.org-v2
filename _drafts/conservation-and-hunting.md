@@ -225,13 +225,24 @@ Also to note is that the Kindle versions of these 3 books are all priced at $0.9
 ### Additional Data Points/Charts
 
 <center>
-<iframe width="1192.9123989218328" height="1580" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=145527899&amp;format=image"></iframe>
+<iframe width="1192.9123989218328" height="1580" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=145527899&amp;format=interactive"></iframe>
 </center>
 
 <div class="captions">
-This chart shows the trend of total Federal Aid in Wildlife Restoration Act of 1937 with the Federal Aid in Sport Fish Restoration Act of 1950 apportionment in 2018 broken down by state.<br>
+This interactive chart shows the trend of total Federal Aid in Wildlife Restoration Act of 1937 with the Federal Aid in Sport Fish Restoration Act of 1950 apportionment in 2018 broken down by state.<br>
 (Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
 </div>
+
+<center>
+<iframe width="1269.0888697855398" height="2408" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=7104493&amp;format=interactive"></iframe>
+</center>
+
+<div class="captions">
+This interactive chart shows the trend of total P-R apportionment per fiscal year, from 1939 to 2018.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+#### The next series of charts has the P-R data broken down in 10 year increments.
 
 <center>
 <iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=754117277&amp;format=image"></iframe>

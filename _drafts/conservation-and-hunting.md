@@ -169,7 +169,8 @@ _“As I review budget requests, I’m looking for bang for my buck,” Moore sa
 
 ##### Status
 
-It’s been in the House Subcommittee since March 2017 although [S. 593](https://www.congress.gov/bill/115th-congress/senate-bill/593) appears to be an identical bill currently before the Senate.
+> info ""
+> It’s been in the House Subcommittee since March 2017 although [S. 593](https://www.congress.gov/bill/115th-congress/senate-bill/593) appears to be an identical bill currently before the Senate.
 
 [HR 2591](https://www.congress.gov/bill/115th-congress/house-bill/2591) - ***The Modernizing The Pittman-Robertson Fund For Tomorrow’s Needs Act of 2017***
 
@@ -183,7 +184,8 @@ _“We think those ought to start small, by redirecting some money from hunter e
 
 ##### Status
 
-It was introduced to the House and the House Natural Resources Committee on 05/22/2017. On 09/12/2018 it was passed/agreed to in House. On 09/17/2018 it was received in the Senate and read twice and referred to the Committee on Environment and Public Works.
+> info ""
+> It was introduced to the House and the House Natural Resources Committee on 05/22/2017. On 09/12/2018 it was passed/agreed to in House. On 09/17/2018 it was received in the Senate and read twice and referred to the Committee on Environment and Public Works.
 
 [HR 4647](https://www.congress.gov/bill/115th-congress/house-bill/4647) - ***The Recovering America's Wildlife Act***
 
@@ -199,7 +201,8 @@ HR 4647’s goal is to “keep species from becoming endangered” and avoid acc
 
 ##### Status
 
-It was introduced to the House on 12/14/2017 and on 02/15/2018 Subcommittee Hearings were held by the  House Natural Resources Subcommittee on Federal Lands.
+> info ""
+> It was introduced to the House on 12/14/2017 and on 02/15/2018 Subcommittee Hearings were held by the  House Natural Resources Subcommittee on Federal Lands.
 
 ### Concluding Thoughts
 

@@ -216,7 +216,7 @@ Roosevelt brought his desire to address the common interests of citizens to the 
 
 If you're interested in learning more about Teddy Roosevelt and his views on Conservation and Hunting I would recommend the following books:
 
-* [Hunting Trips of a Ranchman](ttps://www.amazon.com/gp/product/B01IBOSK1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IBOSK1W&linkCode=as2&tag=fusion94-20&linkId=f613762e50970e93efb1589bee6acdd1)
+* [Hunting Trips of a Ranchman](https://www.amazon.com/gp/product/B01IBOSK1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IBOSK1W&linkCode=as2&tag=fusion94-20&linkId=f613762e50970e93efb1589bee6acdd1)
 * [Ranch Life and the Hunting-Trail](https://www.amazon.com/gp/product/B00NHZK0KA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NHZK0KA&linkCode=as2&tag=fusion94-20&linkId=9b0a0a0370d7139467d426ac34750ba2)
 * [The Wilderness Hunter](https://www.amazon.com/gp/product/B00UPRZ3GO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UPRZ3GO&linkCode=as2&tag=fusion94-20&linkId=03ce299d0686a17a9fba25f19ef4f24c)
 

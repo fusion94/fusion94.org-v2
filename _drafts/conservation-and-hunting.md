@@ -118,15 +118,6 @@ So how much money does this actually mean? Well here are the breakdowns for 2018
 
 And here's that data represented visually:
 
-<center>
-<iframe width="1192.9123989218328" height="1580" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=145527899&amp;format=image"></iframe>
-</center>
-
-<div class="captions">
-This chart shows the trend of total Federal Aid in Wildlife Restoration Act of 1937 with the Federal Aid in Sport Fish Restoration Act of 1950 apportionment in 2018 broken down by state.<br>
-(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
-</div>
-
 So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Which comes to approximately $10 billion in spending by sportmen.
 
 In comparison, in 2017 the Sierra Club received $68 million dollars in total contributions and spent $63 million dollars on program services. Essentially sportsmen from Michigan and North Carolina **combined** contributed the same amount as the Sierra Club in total. I'm not trying to paint the Sierra Club as a bad organization at all. Fundamentally they aren't bad. They just can't do enough.
@@ -210,7 +201,7 @@ HR 4647’s goal is to “keep species from becoming endangered” and avoid acc
 
 It was introduced to the House on 12/14/2017 and on 02/15/2018 Subcommittee Hearings were held by the  House Natural Resources Subcommittee on Federal Lands.
 
-#### Concluding Thoughts
+### Concluding Thoughts
 
 Conservation can often be challenging as there are many trade-offs that need to be made. Having said that we can (and must) do more to conserve fish, wildlife and their habitat to ensure the future of hunting and fishing for subsequent generations.
 
@@ -230,5 +221,16 @@ If you're interested in learning more about Teddy Roosevelt and his views on Con
 * [The Wilderness Hunter](https://www.amazon.com/gp/product/B00UPRZ3GO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UPRZ3GO&linkCode=as2&tag=fusion94-20&linkId=03ce299d0686a17a9fba25f19ef4f24c)
 
 Also to note is that the Kindle versions of these 3 books are all priced at $0.99
+
+### Additional Data Points/Charts
+
+<center>
+<iframe width="1192.9123989218328" height="1580" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=145527899&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total Federal Aid in Wildlife Restoration Act of 1937 with the Federal Aid in Sport Fish Restoration Act of 1950 apportionment in 2018 broken down by state.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
 
 #### Footnotes

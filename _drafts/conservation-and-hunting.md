@@ -145,7 +145,7 @@ Some experts think it’s time to expand P-R taxes to more hunting and shooting-
 
 Whit Fosburgh, president and CEO of the [Teddy Roosevelt Conservation Partnership](http://www.trcp.org/), thinks hunters should lobby to get items such as treestands, reloading equipment, powder, and primers included in P-R to increase the revenues that give them leverage in influencing conservation policy.
 
-Whitney Tilt a consultant on natural resource conservation wrote a post [^2] over on [PERC — the Property and Environment Research Center](https://www.perc.org) asking whether or not should mountain bikers, kayakers, and other recreationists pay an excise tax to help fun outdoor recreation?
+Whitney Tilt a consultant on natural resource conservation wrote a post [^2] over on [PERC — the Property and Environment Research Center](https://www.perc.org) asking whether or not should mountain bikers, kayakers, and other recreationalists pay an excise tax to help fund outdoor recreation?
 
 [^2]: [Paying to Play in the Great Outdoors](https://www.perc.org/2015/01/20/paying-to-play-in-the-great-outdoors/)
 

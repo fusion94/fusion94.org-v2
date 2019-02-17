@@ -233,4 +233,68 @@ This chart shows the trend of total Federal Aid in Wildlife Restoration Act of 1
 (Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
 </div>
 
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=754117277&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1939 to 1948.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=279600770&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1949 to 1958.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=831488591&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1959 to 1968.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=1526765153&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1969 to 1978.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=993832988&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1979 to 1988.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=1956450952&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1989 to 1998.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<center>
+<iframe width="881.5888697855398" height="503" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQdMnUYWKzIKdOgPCl70vuGQU9t5wlg_MCEgqcLJk9C6YpvD2hPZV-TQ0xKw2ZnKHG3wM-4KXxTd4Z/pubchart?oid=300093849&amp;format=image"></iframe>
+</center>
+
+<div class="captions">
+This chart shows the trend of total P-R apportionment per fiscal year, from 1999 to 2008.<br>
+(Data via <a href="https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Funding.htm">USFWS</a>)
+</div>
+
+<br>
 #### Footnotes

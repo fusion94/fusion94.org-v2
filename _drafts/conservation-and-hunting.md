@@ -120,7 +120,7 @@ And here's that data represented visually:
 
 So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Which comes to approximately $10 billion in spending by sportmen.
 
-In comparison, in 2017 the Sierra Club received $68 million dollars in total contributions and spent $63 million dollars on program services. Essentially sportsmen from Michigan and North Carolina **combined** contributed the same amount as the Sierra Club in total. I'm not trying to paint the Sierra Club as a bad organization at all. Fundamentally they aren't bad. They just can't do enough.
+In comparison, in 2017 the Sierra Club received $68 million dollars in total contributions and spent $63 million dollars on program services. Essentially sportsmen from Michigan and North Carolina **combined** contributed the same amount as the Sierra Club in total.  I’m not trying to paint the Sierra Club as a bad organization at all. They simply just can’t do enough.
 
 Since the first annual apportionment of $890,000 in 1939 by the U.S. Fish and Wildlife Service (USFWS), the agency has distributed more than $21 billion from the two federal excise taxes for state conservation and recreation projects.
 

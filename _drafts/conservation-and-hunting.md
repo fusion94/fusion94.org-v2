@@ -16,7 +16,7 @@ series: "Intro to Conservation"
 ### Hunting and Conservation
 
 > warning ""
-> I will admit my views on Conservation are skewed, or if you will biased, as someone who actively hunts and fishes and I've been performing these activities for close to 45 years now.
+> My views on Conservation have been formed by actively hunting, fishing, and spending time in the outdoors for close to 45 years now.
 
 In our nation's early years, there were few laws protecting fish and wildlife and our wildlife resources took a heavy toll. Market hunters took fish and wildlife **at will** while habitat disappeared under plow and roads, resulting in devastating reductions in wildlife populations. Some species, like the passenger pigeon, were taken to the point of no return; others such as bison, white-tailed deer and wild turkeys, were pushed to the edge extinction.
 
@@ -206,7 +206,7 @@ HR 4647’s goal is to “keep species from becoming endangered” and avoid acc
 
 ### Concluding Thoughts
 
-Conservation can often be challenging as there are many trade-offs that need to be made. Having said that we can (and must) do more to conserve fish, wildlife and their habitat to ensure the future of hunting and fishing for subsequent generations.
+Conservation can often be challenging as there will never be enough funding to cover all the needs. Yet, we can (and must) do more to conserve fish, wildlife and their habitat to ensure the future of hunting, fishing, and outdoor recreational activities for subsequent generations.
 
 ### Additional Information
 

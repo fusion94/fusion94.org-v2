@@ -52,26 +52,19 @@ Start by either chopping or dicing your basic ingredients. This would include yo
 
 #### Cooking Instructions
 
-Start by adding the olive oil and diced bacon to a heavy pot (an enameled cast iron pot is perfect) over medium heat. Render the bacon (or pancetta) until crisp.
+Start by adding the olive oil and diced bacon to a heavy pot (an enameled cast iron pot is perfect) using medium heat. Render the bacon (or pancetta) until crisp. Next add the diced onion, carrot, celery and shallot and cook for approximately fifteen minutes, stirring often.
 
-Add the diced onion, carrot, celery and shallot and cook for fifteen minutes, stirring often.
+Add the ground elk and cook till it is browned through, this should take about 15 minutes. Add the garlic and raise the heat to medium-high then add the wine and beef broth. Cook sauce until wine and broth are mostly evaporated.
 
-Add the ground venison and cook till it is browned through, about 10 more minutes.
+Turn down the heat to a simmer and add oregano, basil, salt, pepper, and red pepper flakes. Let this cook for approximately 20 minutes. Now add the crushed tomatoes and tomato paste and bring heat up until you have a boil. After a few minutes, reduce the heat to a simmer.
 
+Let the sauce simmer (very slowly) partially covered for about 2 to 4 hours (the longer the better), do stir occasionally to prevent sticking.
 
-Add the garlic. Raise heat to medium-high and add wine and beef broth. Cook sauce until wine and broth are mostly evaporated.
-
-Turn heat down to a simmer and add oregano, salt, pepper, and red pepper flakes. Let cook for approximately 20 minutes. Add crushed tomatoes and paste, then bring heat to a boil. After a few minutes, reduce the heat to a simmer.
-
-Add the ingredients to a heavy pot and simmer for a minimum of two hours. The longer the cook time, the better the sauce.
-
-Let sauce simmer (very slowly) partially covered for about 2 to 4 hours (the longer the better), stirring occasionally to prevent sticking.
+![alt text](/images/blog/elk-bolognese/sauce.jpg){:height="70%" width="70%"}
 
 About 5 to 10 minutes before serving, add milk or cream and butter.
 
-Just before the sauce is finished, bring one gallon of water to a boil, add two tablespoons of salt and the pasta. Cook for eight to 10 minutes or until the pasta is al dente. Top with sauce and cheese just before serving.
+Just before the sauce is finished, bring one gallon of water to a boil, add two tablespoons of salt and the pasta. Cook for eight to 10 minutes or until the pasta is al dente. Top with the bolognese sauce and cheese just before serving.
 
-
-
-
+![alt text](/images/blog/elk-bolognese/final_product.jpg){:height="70%" width="70%"}
 

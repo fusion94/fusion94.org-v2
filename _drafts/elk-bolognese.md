@@ -54,15 +54,10 @@ Start by either chopping or dicing your basic ingredients. This would include yo
 
 Start by adding the olive oil and diced bacon to a heavy pot (an enameled cast iron pot is perfect) over medium heat. Render the bacon (or pancetta) until crisp.
 
-![alt text](/images/blog/elk-bolognese/fat_reduction.jpg){:height="70%" width="70%"}
-
 Add the diced onion, carrot, celery and shallot and cook for fifteen minutes, stirring often.
-
-![alt text](/images/blog/elk-bolognese/mirepoix.jpg){:height="70%" width="70%"}
 
 Add the ground venison and cook till it is browned through, about 10 more minutes.
 
-![alt text](/images/blog/elk-bolognese/browning.jpg){:height="70%" width="70%"}
 
 Add the garlic. Raise heat to medium-high and add wine and beef broth. Cook sauce until wine and broth are mostly evaporated.
 
@@ -72,26 +67,11 @@ Add the ingredients to a heavy pot and simmer for a minimum of two hours. The lo
 
 Let sauce simmer (very slowly) partially covered for about 2 to 4 hours (the longer the better), stirring occasionally to prevent sticking.
 
-![alt text](/images/blog/elk-bolognese/sauce.jpg){:height="70%" width="70%"}
-
 About 5 to 10 minutes before serving, add milk or cream and butter.
 
 Just before the sauce is finished, bring one gallon of water to a boil, add two tablespoons of salt and the pasta. Cook for eight to 10 minutes or until the pasta is al dente. Top with sauce and cheese just before serving.
 
 
-<div class="gallery" data-columns="2">
-    <img src="/images/blog/elk-bolognese/ingredients.jpg">
-    <img src="/images/blog/elk-bolognese/fat_reduction.jpg">
-</div>
 
-<h3 id="image-carousels">Image carousels</h3>
 
-<p>Here’s another gallery with only one column, which creates a carousel slide-show instead.</p>
 
-<p>A nice little feature: the carousel only advances when it is in view, so your visitors won’t scroll down to find it half way through your images.</p>
-
-<div class="gallery" data-columns="1">
-	<img src="//d1qmdf3vop2l07.cloudfront.net/jovial-peafowl.cloudvent.net/compressed/c94fa02698266327d880168b020b0eb8.jpg" data-cms-original-src="/images/demo/post-02.jpg" />
-	<img src="//d1qmdf3vop2l07.cloudfront.net/jovial-peafowl.cloudvent.net/compressed/e96d10481a70cfcb65a4132a0c34e738.jpg" data-cms-original-src="/images/demo/post-03.jpg" />
-	<img src="//d1qmdf3vop2l07.cloudfront.net/jovial-peafowl.cloudvent.net/compressed/48ca1e5f7e2197c39b212d862d7d6124.jpg" data-cms-original-src="/images/demo/post-04.jpg" />
-</div>

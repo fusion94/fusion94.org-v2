@@ -50,6 +50,10 @@ Start by either chopping or dicing your basic ingredients. This would include yo
 
 ![alt text](/images/blog/elk-bolognese/ingredients.jpg){:height="70%" width="70%"}
 
+<div class="captions">
+Prep Work Done.<br>
+</div>
+
 #### Cooking Instructions
 
 Start by adding the olive oil and diced bacon to a heavy pot (an enameled cast iron pot is perfect) using medium heat. Render the bacon (or pancetta) until crisp. Next add the diced onion, carrot, celery and shallot and cook for approximately fifteen minutes, stirring often.
@@ -62,9 +66,16 @@ Let the sauce simmer (very slowly) partially covered for about 2 to 4 hours (the
 
 ![alt text](/images/blog/elk-bolognese/sauce.jpg){:height="70%" width="70%"}
 
+<div class="captions">
+Bolognese is done.<br>
+</div>
+
 About 5 to 10 minutes before serving, add milk or cream and butter.
 
 Just before the sauce is finished, bring one gallon of water to a boil, add two tablespoons of salt and the pasta. Cook for eight to 10 minutes or until the pasta is al dente. Top with the bolognese sauce and cheese just before serving.
 
 ![alt text](/images/blog/elk-bolognese/final_product.jpg){:height="70%" width="70%"}
 
+<div class="captions">
+The Final Product.<br>
+</div>

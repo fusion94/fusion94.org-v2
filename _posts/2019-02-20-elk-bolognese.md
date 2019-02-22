@@ -5,7 +5,7 @@ date: 2019-02-20 08:28:13
 comments: true
 published: true
 tags:
-featured_image: /images/blog/elk-bolognese/final_product.jpg
+featured_image: /images/blog/elk-bolognese/final_product.webp
 ---
 
 > Bolognese sauce (UK: /ˌbɒləˈneɪz, -ˈnɛz/, US: /ˌboʊlənˈjeɪz/;[1] known in Italian as ragù alla bolognese, pronounced [raˈɡu alla boloɲˈɲeːze; -eːse], ragù bolognese, or simply ragù) is a meat-based sauce originating from Bologna, Italy, hence the name.

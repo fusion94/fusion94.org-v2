@@ -5,7 +5,7 @@ date: 2019-02-15 16:28:17
 comments: true
 published: true
 tags: blogging, youtube, jekyll
-featured_image: /img/featured/jekyll.png
+featured_image: /img/featured/jekyll.webp
 ---
 
 Technology is like fashion, trends will come and go. You might be wondering, how do I know whether it is time to revamp my website? The answer can differ, but it’s essential for your website to be as up-to-date and functional as possible. 

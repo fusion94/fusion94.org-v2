@@ -16,6 +16,8 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about.html'
+    - title: 'Archives'
+      url: '/archives/'
     - title: 'Contact'
       url: '/contact.html'
 

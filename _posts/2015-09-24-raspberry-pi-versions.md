@@ -8,7 +8,6 @@ categories: Raspberry Pi, Open Source
 featured_image: /img/featured/pi.webp
 ---
 
-### Introduction
 There have now been a number of revisions to the Raspberry Pi PCB so the device you have in front of you could be any one of a number of variations. The changes include mounting holes, modifications to the power supply circuitry, different GPIO headers and varying numbers of USB ports. Additionally the Pi 2 introduced a new CPU, additional memory and additional USB Ports.
 
 The variations/revisions currently available are :
@@ -27,13 +26,13 @@ Pi 2 Model B	| 1GB |	a01041 (Sony, UK) <br>a21041 (Embest, China)
 
 In order to find out what hardware revision you have then run the following command at the command prompt or via a terminal window :
 
-{% highlight bash %}
+``` bash
 cat /proc/cpuinfo
- {% endhighlight %}
+```
 
 This will give you output that looks something like this :
 
-{% highlight bash %}
+``` bash
  pi@octopi01 ~ $ cat /proc/cpuinfo
 processor	: 0
 model name	: ARMv6-compatible processor rev 7 (v6l)
@@ -48,7 +47,7 @@ CPU revision	: 7
 Hardware	: BCM2708
 Revision	: 000e
 Serial		: 00000000cc62aac1
-{% endhighlight %}
+```
 
 In this example I’ve got a Pi with a Revision code of 000e. That makes it a: Model B Revision 2.0 Mounting holes with 512MB RAM.
 

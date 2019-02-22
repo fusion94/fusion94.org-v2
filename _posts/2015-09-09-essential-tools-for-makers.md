@@ -5,13 +5,13 @@ date: 2015-09-09 07:45:57 -0700
 comments: true
 categories: [Makers, Tools]
 ---
-<div class="info">NOTE: This blog post is part of a series of blog posts on Making. If you’re  at all  interested then please subscribe to the RSS feed.</div>
 
 I just wanted to put together a list of tools that I believe are essential to Makers. I have all of these items in my workshop and use them constantly.
 
 I've broken them down by category for easier reading. This is by no means an exhaustive list.
 
 ### Safety Items
+
 * Work Gloves
 * Nitrile Gloves
 * Safety Glasses
@@ -21,6 +21,7 @@ I've broken them down by category for easier reading. This is by no means an exh
 * Fire Extinguisher
 
 ### Basic Items (for Electronics)
+
 * Multimeter
 * Soldering Iron (Weller WES51 Analog Soldering Station)
 * Bench Power Supply (Extech 382213 Digital Triple Output DC Power Supply)
@@ -28,6 +29,7 @@ I've broken them down by category for easier reading. This is by no means an exh
 * ESD mat + wristband
 
 ### Adhesives
+
 * Hot Glue Gun (Not a craft glue gun)
 * 2 Part Epoxy
 * Zap Medium CA+
@@ -38,12 +40,14 @@ I've broken them down by category for easier reading. This is by no means an exh
 * Rubber Cement
 
 ### Lubricants
+
 * Graphite
 * Lithium Grease
 * 3-in-1
 * Penetrating Oil
 
 ### Tape
+
 * Duct
 * Blue Painters
 * Masking
@@ -51,6 +55,7 @@ I've broken them down by category for easier reading. This is by no means an exh
 * Scotch
 
 ### Tools & Miscellaneous
+
 * Box Cutter + Razor Blades
 * Lockblade knife
 * Scissors & Shears

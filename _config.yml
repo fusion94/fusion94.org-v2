@@ -40,10 +40,11 @@ defaults:
       layout: "project"
 
 markdown: kramdown
+highlighter: rouge
 
 kramdown:
   input: GFM
-  syntax_highlighter: rougeS
+  syntax_highlighter: rouge
   footnote_backlink: "⤴"
   parse_block_html: true
 
@@ -94,3 +95,4 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+

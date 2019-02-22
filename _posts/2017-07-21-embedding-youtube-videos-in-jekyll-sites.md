@@ -12,9 +12,11 @@ If you're embedding YouTube videos on your Jekyll site it can be a pain in the b
 
 Create a file in your `_includes` folder called `youtubePlayer.html` with this content:
 
+{% raw %}
 ```
 <iframe width="640" height="385" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 ```
+{% endraw %}
 
 Then include this snippet whenever you want to embed a YouTube video:
 

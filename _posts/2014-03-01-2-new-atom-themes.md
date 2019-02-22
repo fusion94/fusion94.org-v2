@@ -5,6 +5,7 @@ date: 2014-03-01 06:00:23 -0800
 comments: true
 categories: [Atom, Open Source, Themes]
 ---
+
 For the past few days I've been kicking the tires on the [Atom Editor](http://atom.io) from [GitHub](https://github.com).
 
 After using it full time for the better part of this time I can say that I believe that this will become my full time editor of choice completely replacing Sublime Text 3.

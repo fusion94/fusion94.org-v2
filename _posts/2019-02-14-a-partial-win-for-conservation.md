@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 tags: conservation
-featured_image: /img/featured/montana-2.jpg
+featured_image: /img/featured/montana-2.webp
 series: "Intro to Conservation"
 ---
 

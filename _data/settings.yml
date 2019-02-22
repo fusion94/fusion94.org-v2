@@ -17,7 +17,7 @@ menu_settings:
     - title: 'About'
       url: '/about.html'
     - title: 'Archives'
-      url: '/archives/'
+      url: '/archives.html'
     - title: 'Contact'
       url: '/contact.html'
 
@@ -137,7 +137,7 @@ font_settings:
     weight: 400
     letter_spacing: 0
     line_height: 1.6
-  p:
+  p:/
     small_size: 16
     medium_size: 18
     large_size: 20

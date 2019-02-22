@@ -168,7 +168,12 @@ blockquote {
 	margin-top: 15px;
 	font-family: $title-font;
 	font-size: $blockquote-small;
-	font-weight: $blockquote-weight;
+	font-weight: $blockquote-weight;img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+  }
 	letter-spacing: $blockquote-spacing;
 	line-height: $blockquote-lineheight;
 
@@ -329,7 +334,12 @@ a {
 	display: inline-block;
 	padding: 9px 10px 10px;
 	font-size: 13px;
-	line-height: 1;
+	line-height: 1;img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+  }
 	border: 2px solid $accent-color;
 	border-radius: 3px;
 	background: $accent-color;
@@ -554,4 +564,17 @@ section {
     margin-bottom: 10px;
 		background-color: #fff;
 		max-width: 100%;
+}
+
+.search {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+.gsc-control-cse {
+	border-color: transparent;
+	background-color: transparent;
+	margin: 10px;
 }

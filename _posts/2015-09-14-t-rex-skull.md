@@ -5,7 +5,7 @@ date: 2015-09-14 11:45:56
 comments: true
 published: true
 tags: Makers, 3D Printing
-featured_image: /img/featured/t-rex.jpg
+featured_image: /img/featured/t-rex.webp
 ---
 So this was a sample print I did over the weekend after using my method of automatic bed leveling as described in a previous blog post.
 

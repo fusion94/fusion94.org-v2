@@ -5,7 +5,7 @@ date: 2015-09-24 09:38:42
 comments: true
 published: true
 categories: Raspberry Pi, Open Source
-featured_image: /img/featured/pi.jpg
+featured_image: /img/featured/pi.webp
 ---
 
 ### Introduction

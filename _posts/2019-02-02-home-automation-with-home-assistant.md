@@ -5,22 +5,22 @@ date: 2019-02-02 08:35:11
 comments: true
 published: true
 tags: ha, automation, home automation
-featured_image: /img/featured/ha.png
+featured_image: /img/featured/ha.webp
 ---
 
-Late in 2017 I started to automate as much as our home as possible. After much trial and error I settled on [Home Assistant](https://www.home-assistant.io). 
+Late in 2017 I started to automate as much as our home as possible. After much trial and error I settled on [Home Assistant](https://www.home-assistant.io).
 
 ### What is Home Assistant?
 
 > Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 
-Home Assistant was/is written in Python and was originally created by Paulaus Schoutsen in 2013 "as a simple script to turn on the lights when the sun was setting". 
+Home Assistant was/is written in Python and was originally created by Paulaus Schoutsen in 2013 "as a simple script to turn on the lights when the sun was setting".
 
 ### Basic Components of a Automated Home Project
 
 There are a few basic components of an Automated Home. Regardless of the technology that's used there are the basic components.
 
-* Home Controller or Hub 
+* Home Controller or Hub
 * Sensors
 * Actuators
 * Interfaces

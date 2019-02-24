@@ -8,15 +8,15 @@ categories: [shell, stats]
 
 From time to time, I like to analyze which unix or linux shell commands I'm using most frequently. To do this, all I need is a little awk, like the following:
 
-{% highlight bash %}
+``` bash
 history | awk '{print $2}' | sort | uniq -c | sort -rn | head
-{% endhighlight %}
+```
 
 So what does this do?
 
 Basically, it parses your history looking at the 2nd column, which is the command you typed and increments it each time it is found. Then it displays a sorted report showing the count of the command and the command, like this example on my MacBook Pro:
 
-{% highlight bash %}
+``` bash
 1353 git
 749 cd
 391 ssh
@@ -27,24 +27,23 @@ Basically, it parses your history looking at the 2nd column, which is the comman
 143 rvm
 135 rm
 119 bundle
-{% endhighlight %}
-
+```
 Based on this output of the top 10 most frequently used shell commands, it shows that I'm using git, and ls quite a bit so it would be helpful to create aliases for these commands. Here are a few examples:
 
-{% highlight bash %}
+``` bash
 alias g="git"
 alias l="ls -al"
-{% endhighlight %}
+```
 
 Now that I know git is one of my most used commands I can parse my history to determine what git command I use most frequently:
 
-{% highlight bash %}
-history | awk '{print $2 " " $3}' | sort | uniq -c | sort -rn | grep "git" | head     
-{% endhighlight %}
+``` bash
+history | awk '{print $2 " " $3}' | sort | uniq -c | sort -rn | grep "git" | head
+```
 
 The output of that command provides me with this information:
 
-{% highlight bash %}
+``` bash
  200 git push
  191 git commit
  172 git status
@@ -53,14 +52,14 @@ The output of that command provides me with this information:
   99 git checkout
   79 git remote
   49 git fetch
-{% endhighlight %}  
+```
 
 This now allows me to tailor my aliases for git accordingly.
 
-{% highlight bash %}
+``` bash
 alias gp="git push"
 alias gc="git commit -m"
 alias gs="git status"
-{% endhighlight %}
+```
 
 By tailoring your aliases appropriately you can speed up your workflow significantly, as well as reduce the wear and tear on your fingers.

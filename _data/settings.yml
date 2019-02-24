@@ -16,6 +16,11 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about.html'
+<<<<<<< HEAD
+    - title: 'Archives'
+      url: '/archives.html'
+=======
+>>>>>>> parent of 3d452b4... adding archives
     - title: 'Contact'
       url: '/contact.html'
 
@@ -135,7 +140,6 @@ font_settings:
     weight: 400
     letter_spacing: 0
     line_height: 1.6
-  p:
     small_size: 16
     medium_size: 18
     large_size: 20

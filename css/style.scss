@@ -1,6 +1,3 @@
----
----
-
 // - - - - - - - - - - Foundations
 
 @import "_reset";
@@ -14,7 +11,8 @@
 
 // Colors
 
-$background-color: {{ site.data.settings.color_settings.background_color }};
+$background-color: {{ site.data.sConversion error: Jekyll::Converters::Scss encountered an error while converting 'css/style.scss':
+  ettings.color_settings.background_color }};
 $background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
 $border-color: {{ site.data.settings.color_settings.border_color }};
 
@@ -153,5 +151,4 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 @import "_includes/_portfolio";
 @import "_includes/_blog";
-
 

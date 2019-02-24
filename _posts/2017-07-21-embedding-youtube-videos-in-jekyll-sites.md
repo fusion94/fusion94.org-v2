@@ -5,16 +5,18 @@ date: 2017-07-21 19:48:15
 comments: true
 published: true
 tags: blogging, youtube, jekyll
-featured_image: /img/featured/jekyll.png
+featured_image: /img/featured/jekyll.webp
 ---
 
 If you're embedding YouTube videos on your Jekyll site it can be a pain in the butt to include the YouTube embed code every time. Here is an easy way to use includes instead of using a plugin.
 
 Create a file in your `_includes` folder called `youtubePlayer.html` with this content:
 
+{% raw %}
 ```
 <iframe width="640" height="385" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 ```
+{% endraw %}
 
 Then include this snippet whenever you want to embed a YouTube video:
 

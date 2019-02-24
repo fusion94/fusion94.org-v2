@@ -20,56 +20,52 @@ To recreate the local directory structure of an existing Octopress blog, follow 
 
 First you will need to clone the `source` branch to a local octopress folder.
 
-{% highlight bash %}
+``` bash
 $ git clone -b source git@github.com:username/username.github.com.git octopress
-{% endhighlight %}
-
+```
 
 Then clone the `master` branch to the `_deploy` subfolder.
 
-{% highlight bash %}
+``` bash
 $ cd octopress
 $ git clone git@github.com:username/username.github.com.git _deploy
-{% endhighlight %}
+```
 
 Then run the rake installation to configure everything
 
-{% highlight bash %}
+``` bash
 $ gem install bundler
 $ rbenv rehash    # If you use rbenv, rehash to be able to run the bundle command
 $ bundle install
 $ rake setup_github_pages
-{% endhighlight %}
+```
 
 It will prompt you for your repository URL.
 
-{% highlight bash %}
+``` bash
 Enter the read/write url for your repository
 (For example, 'git@github.com:your_username/your_username.github.com)
-{% endhighlight %}
+```
 
 You are now setup with a new local copy of your existing Octopress blog.
-
-<div class="hr"></div>
 
 ### Pushing changes from two different machines
 
 If you want to blog from more than one computer, you need to make sure that you push everything before switching computers. From the first machine do the following whenever you’ve made changes:
 
-{% highlight bash %}
+``` bash
 $ rake generate
 $ git add .
 $ git commit -am "Some comment here."
 $ git push origin source  # update the remote source branch
 $ rake deploy             # update the remote master branch
-{% endhighlight %}
-
+```
 
 Then on the second machine, you will need to pull down those changes.
 
-{% highlight bash %}
+``` bash
 $ cd octopress
 $ git pull origin source  # update the local source branch
 $ cd ./_deploy
 $ git pull origin master  # update the local master branch
-{% endhighlight %}
+```

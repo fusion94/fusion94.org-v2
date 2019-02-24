@@ -60,8 +60,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll/tagging
   - jekyll-tagging-related_posts
+<<<<<<< HEAD
 #  - jekyll-archives
 
+=======
+  
+>>>>>>> parent of 3d452b4... adding archives
 paginate: 5
 paginate_path: "/blog/page:num/"
 
@@ -85,6 +89,7 @@ transfer:
   settings: -av
   source: _site/
   destination: /var/www/fusion94.org/html
+<<<<<<< HEAD
 
 jekyll-archives:
   enabled: []
@@ -96,3 +101,5 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
 
+=======
+>>>>>>> parent of 3d452b4... adding archives

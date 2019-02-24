@@ -16,8 +16,11 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about.html'
+<<<<<<< HEAD
     - title: 'Archives'
       url: '/archives.html'
+=======
+>>>>>>> parent of 3d452b4... adding archives
     - title: 'Contact'
       url: '/contact.html'
 

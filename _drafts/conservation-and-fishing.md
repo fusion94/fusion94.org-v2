@@ -33,6 +33,10 @@ Lots of amendments have been made over the years, but the biggest was in 1984. T
 The problem had been that the Pittman-Robertson Act in the hunting industry was blowing Dingell-Johnson out of the water in terms of money raised, more than twice as much. By extending the list of qualifying equipment, this amendment took the funding from $38 million to $122 million in one year.
 
 ### Is it Working?
+https://www.fisheries.noaa.gov/national/population-assessments/status-us-fisheries#fish-stock-sustainability-index
+
+
+So how has D-J worked out for the American public?
 
 http://blogs.edf.org/edfish/2018/05/18/the-remarkable-recovery-of-u-s-fisheries-continues/
 
@@ -40,8 +44,9 @@ Getting fishery management right is incredibly complex, as illustrated by a hist
 
 Take the Pacific groundfish fishery. The oceans off our nation’s West Coast have a rich marine biodiversity; and the groundfish fishery, encompassing more than 60 species of rockfish and over 90 species in total, is the region’s largest. Yet by 2000 it was declared a federal disaster, and imports rapidly displaced Pacific groundfish in the U.S. seafood marketplace. What followed was years of hard work by fishermen and other stakeholders – which included the imposition of science-based catch limits for every species, monitoring of every fishing vessel, and development of a new catch share management system that incentivized conservation. Now, the fishery is roaring back. This week’s report confirms that another three Pacific groundfish stocks – bocaccio, darkblotched rockfish and Pacific Ocean perch – have been rebuilt.
 
-
 http://blogs.edf.org/edfish/2016/04/20/the-state-of-u-s-fisheries-is-strong/
+https://repository.library.noaa.gov/view/noaa/15619
+
 
 At a big-picture level, today’s report is another clear indication that “the state of our fisheries is strong.” Indeed, it reveals that in 2015 the Fish Stock Sustainability Index (FSSI) – the composite index that tracks the health of key commercial and recreational stocks that account for 85% of total catch – hit an all-time high.
 
@@ -65,7 +70,7 @@ https://www.fisheries.noaa.gov/
 
 https://news.nationalgeographic.com/2016/03/160328-fisheries-reform-catch-shares-fishing-science-conservation/
 
-In the U.S., since 2000, there has been a 70 percent drop in the number of overfished species. The number of fish with rebuilt populations has risen from zero to 39. At the same time, the number of jobs in fishing has risen by 31 percent in the past three years while revenue has risen 44 percent. 
+In the U.S., since 2000, there has been a 70 percent drop in the number of overfished species. The number of fish with rebuilt populations has risen from zero to 39. At the same time, the number of jobs in fishing has risen by 31 percent in the past three years while revenue has risen 44 percent.
 
 US 2017 Report NOAA
 

@@ -74,7 +74,7 @@ About 5 to 10 minutes before serving, add milk or cream and butter.
 
 Just before the sauce is finished, bring one gallon of water to a boil, add two tablespoons of salt and the pasta. Cook for eight to 10 minutes or until the pasta is al dente. Top with the bolognese sauce and cheese just before serving.
 
-![alt text](/images/blog/elk-bolognese/final_product.jpg){:height="70%" width="70%"}
+![alt text](/images/blog/elk-bolognese/final_product.webp){:height="70%" width="70%"}
 
 <div class="captions">
 The Final Product.<br>

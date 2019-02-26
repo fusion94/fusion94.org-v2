@@ -18,7 +18,9 @@ series: "Intro to Conservation"
 > warning ""
 > My views on Conservation have been formed by actively hunting, fishing, and spending time in the outdoors for close to 45 years now.
 
-In a previous article I coverered the Pittman-Robertson Act and it's impact on [Conservation](http://localhost:4000/blog/2019-02-17/conservation-and-hunting/). I this article I will be covering the [Federal Aid in Sport Fish Restoration Act of 1950](https://en.wikipedia.org/wiki/Dingell%E2%80%93Johnson_Act). Taken together, these two acts laid the foundation for what inspired the North American Model of Wildlife Conservation.
+In a previous article I coverered the Pittman-Robertson Act and it's impact on [Conservation](http://localhost:4000/blog/2019-02-17/conservation-and-hunting/). I this article I will be covering the [Federal Aid in Sport Fish Restoration Act of 1950](https://en.wikipedia.org/wiki/Dingell%E2%80%93Johnson_Act), the [1984 Wallop-Breaux Amendment](https://wsfrprograms.fws.gov/subpages/grantprograms/sfr/SFR_Act_Amend.htm) and the [Magnuson–Stevens Fishery Conservation and Management Act](https://en.wikipedia.org/wiki/Magnuson%E2%80%93Stevens_Fishery_Conservation_and_Management_Act) Taken together, these three acts laid the foundation for what inspired the North American Model of Wildlife Conservation with regards to Fishing (both commercial and sport).
+
+#### Dingell-Johnson Act
 
 The Dingell–Johnson Act (D-J), authorizes the Secretary of the Interior to provide financial assistance for state fish restoration and management plans and projects. It was modeled after the Pittman-Robertson Act, and was aimed at creating a similar program for the management, conservation, and restoration of fishery resources.
 
@@ -30,7 +32,37 @@ Program funds are used by state fish and wildlife agencies for sport fish manage
 
 Lots of amendments have been made over the years, but the biggest was in 1984. This was called the Wallop-Breaux Amendment, after Congressman John Breaux and Senator Malcolm Wallop, who led the charge. This amendment expanded the list of sport fishing gear that qualified for the 10% excise tax. It also added a 3% tax on certain motors and fish finders. In addition, it expanded the projects that the tax could fund to include boating facilities, education programs, and more.
 
+
+* Created Aquatic Resources Trust Fund
+* Provided for additional funds captured from a portion of the federal gasoline excise taxes attributable to motorboats by a formula based on boat registrations
+* Broadened taxed items (fishing equipment)
+* Added District of Columbia
+* Authorized spending for aquatic education for up to 10% of apportionment
+* Mandated 10% minimum of apportionment be spent for motorboat access
+* Mandated apportionments be distributed between freshwater/marine
+* Mandated "maintenance of effort"
+
 The problem had been that the Pittman-Robertson Act in the hunting industry was blowing Dingell-Johnson out of the water in terms of money raised, more than twice as much. By extending the list of qualifying equipment, this amendment took the funding from $38 million to $122 million in one year.
+
+#### Magnuson-Stevens Fishery Conservation and Management Act
+
+The Magnuson–Stevens Fishery Conservation and Management Act (MSFCMA), commonly referred to as the Magnuson–Stevens Act (MSA), is the legal provision for promoting optimal exploitation of U.S. coastal fisheries. Enacted in 1976, it has since been amended in line with sustainability policy.
+
+The Magnuson–Stevens Fishery Conservation and Management Act[^1] is the primary law governing marine fisheries management in United States federal waters. The law is named after U.S. Senators Warren G. Magnuson of Washington state and Ted Stevens of Alaska.
+
+[^1]: 16 U.S.C. §§ 1801-1884
+
+The MSFCMA was enacted to promote the U.S. fishing industry's optimal exploitation of coastal fisheries by "consolidating control over territorial waters" and establishing eight regional councils to manage fish stocks. The act has been amended several times in response to continued overfishing of major stocks. The most recent version, authorized in 2007, includes seven purposes:
+
+1. Acting to conserve fishery resources
+1. Supporting enforcement of international fishing agreements
+1. Promoting fishing in line with conservation principles
+1. Providing for the implementation of fishery management plans (FMPs) which achieve optimal yield
+1. Establishing Regional Fishery Management Councils to steward fishery resources through the preparation, monitoring, and revising of plans which (A) enable stake holders to participate in the administration of fisheries and (B) consider social and economic needs of states.
+1. Developing underutilized fisheries
+1. Protecting essential fish habitats
+
+Additionally, the law calls for reducing bycatch and establishing fishery information monitoring systems.
 
 ### Is it Working?
 
@@ -56,7 +88,7 @@ The FSSI increases when NOAA Fisheries determines the status of a stock and when
 
 The original FSSI reported on 230 stocks managed under federal fishery management plans (FMPs), including domestic stocks we manage solely within the U.S. Exclusive Economic Zone and international stocks we manage jointly under international agreements. We reported the original FSSI on a scale of 920 possible points which required a constant 230 stocks in the index. Over time, as fishery science and management evolved and stocks were both added to and removed from FMPs, maintaining exactly 230 stocks in the FSSI became an increasing challenge.
 
-Beginning in 2015, we revised the FSSI so that the maximum possible FSSI score is 1,000, even if the number of stocks reported in the FSSI changes. This will allow the FSSI to accommodate future additions or removals of stocks to and from FMPs. We also removed international stocks from the FSSI. International stocks are subject to different management requirements than domestic stocks, and the impact of U.S. fisheries management to control overfishing or rebuild these stocks is often small or indirect. By focusing on domestic stocks, the FSSI is a stronger performance measure for U.S. fishery management. 
+Beginning in 2015, we revised the FSSI so that the maximum possible FSSI score is 1,000, even if the number of stocks reported in the FSSI changes. This will allow the FSSI to accommodate future additions or removals of stocks to and from FMPs. We also removed international stocks from the FSSI. International stocks are subject to different management requirements than domestic stocks, and the impact of U.S. fisheries management to control overfishing or rebuild these stocks is often small or indirect. By focusing on domestic stocks, the FSSI is a stronger performance measure for U.S. fishery management.
 
 ##### FSSI Scoring Methodology
 
@@ -87,7 +119,6 @@ Step 5: Convert raw total point score to a 1,000 point scale: total raw point sc
 
 ### Other Bits
 
-#### Magnuson-Stevens Fishery Conservation and Management Act 
 
 http://blogs.edf.org/edfish/2018/05/18/the-remarkable-recovery-of-u-s-fisheries-continues/
 

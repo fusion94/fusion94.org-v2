@@ -33,10 +33,61 @@ Lots of amendments have been made over the years, but the biggest was in 1984. T
 The problem had been that the Pittman-Robertson Act in the hunting industry was blowing Dingell-Johnson out of the water in terms of money raised, more than twice as much. By extending the list of qualifying equipment, this amendment took the funding from $38 million to $122 million in one year.
 
 ### Is it Working?
-https://www.fisheries.noaa.gov/national/population-assessments/status-us-fisheries#fish-stock-sustainability-index
-
 
 So how has D-J worked out for the American public?
+
+Since 1996, NOAA Fisheries has reported on the status of U.S. fisheries, as required by the Magnuson-Stevens Fishery Conservation and Management Act. Reporting on the status of fish stocks provides fisheries managers and the public with an account of how well current fisheries management measures are working. A scientific analysis of the abundance and composition of a fish stock (stock assessment) evaluates the stock against reference points. Stock assessments use the best information available, which may include data from fisheries landings, scientific surveys, and biological studies. NOAA Fisheries uses the stock assessment and reference points to determine whether the stock is subject to overfishing or overfished. Information from the stock assessment is used by the regional fishery management council to recommend the annual catch limit for the stock.
+
+NOAA Fisheries’ Office of Sustainable Fisheries updates the status of fish stocks managed under federal fishery management plans quarterly based on stock assessments completed during that quarter. Stock status definitions include:
+
+* Overfishing – The annual rate of catch is too high.
+* Overfished – The population size is too small.
+* Rebuilt – A previously overfished stock that has increased in abundance to the target population size that supports its maximum sustainable yield.
+
+These data also help NOAA Fisheries calculate its Fish Stock Sustainability Index (FSSI), which measures the performance of U.S. fish stocks selected for their importance to commercial and recreational fisheries.
+
+#### Fish Stock Sustainability Index
+
+NOAA Fisheries measures the performance of U.S. federal fisheries through the Fish Stock Sustainability Index (FSSI). First implemented in 2005, the FSSI is a quarterly index that currently includes 199 fish stocks selected because of their importance to commercial and recreational fisheries. The FSSI measures the performance of these important fish stocks, which represent 85 percent of total catch.
+
+The FSSI increases when NOAA Fisheries determines the status of a stock and when a stock's status improves (either no longer subject to overfishing, no longer overfished, biomass increases to at least 80 percent of target, or is rebuilt). The number of stocks in the index may be revised as new fisheries develop and stocks are assessed.
+
+##### History of the FSSI
+
+The original FSSI reported on 230 stocks managed under federal fishery management plans (FMPs), including domestic stocks we manage solely within the U.S. Exclusive Economic Zone and international stocks we manage jointly under international agreements. We reported the original FSSI on a scale of 920 possible points which required a constant 230 stocks in the index. Over time, as fishery science and management evolved and stocks were both added to and removed from FMPs, maintaining exactly 230 stocks in the FSSI became an increasing challenge.
+
+Beginning in 2015, we revised the FSSI so that the maximum possible FSSI score is 1,000, even if the number of stocks reported in the FSSI changes. This will allow the FSSI to accommodate future additions or removals of stocks to and from FMPs. We also removed international stocks from the FSSI. International stocks are subject to different management requirements than domestic stocks, and the impact of U.S. fisheries management to control overfishing or rebuild these stocks is often small or indirect. By focusing on domestic stocks, the FSSI is a stronger performance measure for U.S. fishery management. 
+
+##### FSSI Scoring Methodology
+
+Each quarter, NOAA Fisheries calculates an FSSI score, incorporating information from new stock assessments and stock status determinations. The FSSI is calculated on a 1,000 point scale using the following methodology:
+
+Step 1: Assign weighted criteria points for each stock based on the following:
+
+| | |
+|---|---|
+|Criteria | Criteria Points|
+|1. "Overfished" status is known.|0.5|
+|2. "Overfishing" status is known.|0.5|
+|3. Overfishing is not occurring (for stocks with known "overfishing" status).|1.0|
+|4. Stock biomass is above the "overfished" level defined for the stock.|1.0|
+|5. Stock biomass is at or above 80% of the biomass that produces maximum sustainable yield (BMSY)*|1.0|
+
+<div class="captions">
+_* Stocks rebuilding from a previously overfished condition are not awarded the fourth point until they reach BMSY, as mandated by the Magnuson-Stevens Act. After they have been fully rebuilt, they may fluctuate within the 80% parameter and retain the score of 4 like the other non-rebuilding stocks. This point is in addition to the point awarded for being above the “overfished” level._
+</div>
+
+Step 2: Calculate the sum of criteria points for all FSSI stocks.
+
+Step 3: Calculate maximum criteria points possible: multiply number of FSSI stocks (199) x maximum criteria points per stock (4 points).
+
+Step 4: Calculate a raw total point score: divide sum of criteria points / maximum criteria points possible.
+
+Step 5: Convert raw total point score to a 1,000 point scale: total raw point score*1,000.
+
+### Other Bits
+
+#### Magnuson-Stevens Fishery Conservation and Management Act 
 
 http://blogs.edf.org/edfish/2018/05/18/the-remarkable-recovery-of-u-s-fisheries-continues/
 
@@ -75,3 +126,5 @@ In the U.S., since 2000, there has been a 70 percent drop in the number of overf
 US 2017 Report NOAA
 
 https://www.fisheries.noaa.gov/content/fisheries-united-states-2017
+
+https://www.fisheries.noaa.gov/national/population-assessments/status-us-fisheries#fish-stock-sustainability-index

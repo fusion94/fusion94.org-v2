@@ -5,7 +5,7 @@ date: 2019-02-26 18:40:09
 comments: true
 published: true
 tags: conservation
-featured_image: /img/featured/montana-4.webp
+featured_image: /img/featured/montana-5.webp
 series: "Intro to Conservation"
 ---
 

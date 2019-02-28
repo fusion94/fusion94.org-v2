@@ -42,50 +42,11 @@ Key features of **S. 47** include:
 ### Voting Breakdown
 
 As mentioned earlier the voting was 92-8 with the 8 NAYs coming from Republican Senators.
+<br><br>
 
-#### YEAs (92)
-
-|   |   |   |
-|---|---|---|
-|Alexander (R-TN)|Baldwin (D-WI)| Barrasso (R-WY)|
-|Bennet (D-CO)|Blackburn (R-TN)|Blumenthal (D-CT)|
-|Blunt (R-MO)|Booker (D-NJ)|Boozman (R-AR)|
-|Braun (R-IN)|Brown (D-OH)|Burr (R-NC)|
-|Cantwell (D-WA)|Capito (R-WV)|Cardin (D-MD)|
-|Carper (D-DE)|Casey (D-PA)|Cassidy (R-LA)|
-|Collins (R-ME)|Coons (D-DE)|Cornyn (R-TX)|
-|Cortez Masto (D-NV)|Cotton (R-AR)|Cramer (R-ND)|
-|Crapo (R-ID)|Daines (R-MT)|Duckworth (D-IL)|
-|Durbin (D-IL)|Enzi (R-WY)|Ernst (R-IA)|
-|Feinstein (D-CA)|Fischer (R-NE)|Gardner (R-CO)|
-|Gillibrand (D-NY)|Graham (R-SC)|Grassley (R-IA)|
-|Harris (D-CA)|Hassan (D-NH)|Hawley (R-MO)|
-|Heinrich (D-NM)|Hirono (D-HI)|Hoeven (R-ND)|
-|Hyde-Smith (R-MS)|Isakson (R-GA)|Jones (D-AL)|
-|Kaine (D-VA)|Kennedy (R-LA)|King (I-ME)|
-|Klobuchar (D-MN)|Leahy (D-VT)|Manchin (D-WV)|
-|Markey (D-MA)|McConnell (R-KY)|McSally (R-AZ)|
-|Menendez (D-NJ)|Merkley (D-OR)|Moran (R-KS)|
-|Murkowski (R-AK)|Murphy (D-CT)|Murray (D-WA)|
-|Perdue (R-GA)|Peters (D-MI)|Portman (R-OH)|
-|Reed (D-RI)|Risch (R-ID)|Roberts (R-KS)|
-|Romney (R-UT)|Rosen (D-NV)|Rounds (R-SD)|
-|Rubio (R-FL)|Sanders (I-VT)|Schatz (D-HI)|
-|Schumer (D-NY)|Scott (R-FL)|Scott (R-SC)|
-|Shaheen (D-NH)|Shelby (R-AL)|Sinema (D-AZ)|
-|Smith (D-MN)|Stabenow (D-MI)|Sullivan (R-AK)|
-|Tester (D-MT)|Thune (R-SD)|Tillis (R-NC)|
-|Udall (D-NM)|Van Hollen (D-MD)|Warner (D-VA)|
-|Warren (D-MA)|Whitehouse (D-RI)|Wicker (R-MS)|
-|Wyden (D-OR)|Young (R-IN)| |
-
-#### NAYs (8)
-
-|   |   |   |
-|---|---|---|
-|Cruz (R-TX)|Inhofe (R-OK)|Johnson (R-WI)|
-|Lankford (R-OK)|Lee (R-UT)|Paul (R-KY)|
-|Sasse (R-NE)|Toomey (R-PA)| |
+<center>
+<iframe width="700" height="2200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVajrXa8IY5mT6O1t7Wn8oBgpTtdbQFuvYdzXkTLCJ-wrcN8gqv4I2dS-_JlcQtzRDd8F1r8OX8fOp/pubhtml?gid=1754828025&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</center>
 
 ### Left to Do
 

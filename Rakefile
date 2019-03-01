@@ -154,6 +154,12 @@ task :build do
   execute("jekyll build")
 end
 
+# rake about
+desc "Show me text"
+task :about do
+  puts "Hello from Rake!"
+end
+
 # rake watch
 # rake watch[number]
 # rake watch["drafts"]

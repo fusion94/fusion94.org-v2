@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conservation and Fishing"
-date: 2019-02-26 20:01:42
+date: 2019-02-28 18:01:42
 comments: true
 published: true
 tags: conservation, hunting
@@ -18,7 +18,7 @@ series: "Intro to Conservation"
 > warning ""
 > My views on Conservation have been formed by actively hunting, fishing, and spending time in the outdoors for close to 45 years now.
 
-In a previous article I coverered the Pittman-Robertson Act and it's impact on [Conservation](http://localhost:4000/blog/2019-02-17/conservation-and-hunting/). I this article I will be covering the [Federal Aid in Sport Fish Restoration Act of 1950](https://en.wikipedia.org/wiki/Dingell%E2%80%93Johnson_Act), the [1984 Wallop-Breaux Amendment](https://wsfrprograms.fws.gov/subpages/grantprograms/sfr/SFR_Act_Amend.htm) and the [Magnuson–Stevens Fishery Conservation and Management Act](https://en.wikipedia.org/wiki/Magnuson%E2%80%93Stevens_Fishery_Conservation_and_Management_Act) Taken together, these three acts laid the foundation for what inspired the North American Model of Wildlife Conservation with regards to Fishing (both commercial and sport).
+In a previous article I coverered the Pittman-Robertson Act and it's impact on [Conservation](http://localhost:4000/blog/2019-02-17/conservation-and-hunting/). I this article I will be covering the [Federal Aid in Sport Fish Restoration Act of 1950](https://en.wikipedia.org/wiki/Dingell%E2%80%93Johnson_Act), the [1984 Wallop-Breaux Amendment](https://wsfrprograms.fws.gov/subpages/grantprograms/sfr/SFR_Act_Amend.htm) and the [Magnuson–Stevens Fishery Conservation and Management Act](https://en.wikipedia.org/wiki/Magnuson%E2%80%93Stevens_Fishery_Conservation_and_Management_Act). Taken together, these three acts laid the foundation for what inspired the North American Model of Wildlife Conservation with regards to Fishing (both commercial and sport).
 
 #### Dingell-Johnson Act
 
@@ -32,6 +32,7 @@ Program funds are used by state fish and wildlife agencies for sport fish manage
 
 Lots of amendments have been made over the years, but the biggest was in 1984. This was called the Wallop-Breaux Amendment, after Congressman John Breaux and Senator Malcolm Wallop, who led the charge. This amendment expanded the list of sport fishing gear that qualified for the 10% excise tax. It also added a 3% tax on certain motors and fish finders. In addition, it expanded the projects that the tax could fund to include boating facilities, education programs, and more.
 
+Specifically it either created or added:
 
 * Created Aquatic Resources Trust Fund
 * Provided for additional funds captured from a portion of the federal gasoline excise taxes attributable to motorboats by a formula based on boat registrations
@@ -39,8 +40,14 @@ Lots of amendments have been made over the years, but the biggest was in 1984. T
 * Added District of Columbia
 * Authorized spending for aquatic education for up to 10% of apportionment
 * Mandated 10% minimum of apportionment be spent for motorboat access
-* Mandated apportionments be distributed between freshwater/marine
+* Mandated apportionments be distributed between freshwater/marine resources
 * Mandated "maintenance of effort"
+
+I had absolutely zero idea as to what "maintenance of effort"[^1] was so I had to Google it.
+
+> For education, “maintenance of effort” requirements differ from matching requirements in that the former do not require a minimum amount of local funds in exchange for receipt of state or federal funds, but rather prohibit reductions in local funding from one year to the next.
+
+[^1]: [Maintenance of Effort](http://eli.ctas.tennessee.edu/printpdf/book/export/html/722)
 
 The problem had been that the Pittman-Robertson Act in the hunting industry was blowing Dingell-Johnson out of the water in terms of money raised, more than twice as much. By extending the list of qualifying equipment, this amendment took the funding from $38 million to $122 million in one year.
 
@@ -48,9 +55,9 @@ The problem had been that the Pittman-Robertson Act in the hunting industry was 
 
 The Magnuson–Stevens Fishery Conservation and Management Act (MSFCMA), commonly referred to as the Magnuson–Stevens Act (MSA), is the legal provision for promoting optimal exploitation of U.S. coastal fisheries. Enacted in 1976, it has since been amended in line with sustainability policy.
 
-The Magnuson–Stevens Fishery Conservation and Management Act[^1] is the primary law governing marine fisheries management in United States federal waters. The law is named after U.S. Senators Warren G. Magnuson of Washington state and Ted Stevens of Alaska.
+The Magnuson–Stevens Fishery Conservation and Management Act[^2] is the primary law governing marine fisheries management in United States federal waters. The law is named after U.S. Senators Warren G. Magnuson of Washington state and Ted Stevens of Alaska.
 
-[^1]: 16 U.S.C. §§ 1801-1884
+[^2]: 16 U.S.C. §§ 1801-1884
 
 The MSFCMA was enacted to promote the U.S. fishing industry's optimal exploitation of coastal fisheries by "consolidating control over territorial waters" and establishing eight regional councils to manage fish stocks. The act has been amended several times in response to continued overfishing of major stocks. The most recent version, authorized in 2007, includes seven purposes:
 
@@ -66,7 +73,7 @@ Additionally, the law calls for reducing bycatch and establishing fishery inform
 
 ### Is it Working?
 
-So how has D-J worked out for the American public?
+So how have these 3 laws/acts worked out for the American public?
 
 Since 1996, NOAA Fisheries has reported on the status of U.S. fisheries, as required by the Magnuson-Stevens Fishery Conservation and Management Act. Reporting on the status of fish stocks provides fisheries managers and the public with an account of how well current fisheries management measures are working. A scientific analysis of the abundance and composition of a fish stock (stock assessment) evaluates the stock against reference points. Stock assessments use the best information available, which may include data from fisheries landings, scientific surveys, and biological studies. NOAA Fisheries uses the stock assessment and reference points to determine whether the stock is subject to overfishing or overfished. Information from the stock assessment is used by the regional fishery management council to recommend the annual catch limit for the stock.
 
@@ -86,9 +93,9 @@ The FSSI increases when NOAA Fisheries determines the status of a stock and when
 
 ##### History of the FSSI
 
-The original FSSI reported on 230 stocks managed under federal fishery management plans (FMPs), including domestic stocks we manage solely within the U.S. Exclusive Economic Zone and international stocks we manage jointly under international agreements. We reported the original FSSI on a scale of 920 possible points which required a constant 230 stocks in the index. Over time, as fishery science and management evolved and stocks were both added to and removed from FMPs, maintaining exactly 230 stocks in the FSSI became an increasing challenge.
+The original FSSI reported on 230 stocks managed under federal fishery management plans (FMPs), including domestic stocks we manage solely within the U.S. Exclusive Economic Zone and international stocks we manage jointly under international agreements. They reported the original FSSI on a scale of 920 possible points which required a constant 230 stocks in the index. Over time, as fishery science and management evolved and stocks were both added to and removed from FMPs, maintaining exactly 230 stocks in the FSSI became an increasing challenge.
 
-Beginning in 2015, we revised the FSSI so that the maximum possible FSSI score is 1,000, even if the number of stocks reported in the FSSI changes. This will allow the FSSI to accommodate future additions or removals of stocks to and from FMPs. We also removed international stocks from the FSSI. International stocks are subject to different management requirements than domestic stocks, and the impact of U.S. fisheries management to control overfishing or rebuild these stocks is often small or indirect. By focusing on domestic stocks, the FSSI is a stronger performance measure for U.S. fishery management.
+Beginning in 2015, they revised the FSSI so that the maximum possible FSSI score is 1,000, even if the number of stocks reported in the FSSI changes. This will allow the FSSI to accommodate future additions or removals of stocks to and from FMPs. They also removed international stocks from the FSSI. International stocks are subject to different management requirements than domestic stocks, and the impact of U.S. fisheries management to control overfishing or rebuild these stocks is often small or indirect. By focusing on domestic stocks, the FSSI is a stronger performance measure for U.S. fishery management.
 
 ##### FSSI Scoring Methodology
 
@@ -117,45 +124,41 @@ Step 4: Calculate a raw total point score: divide sum of criteria points / maxim
 
 Step 5: Convert raw total point score to a 1,000 point scale: total raw point score*1,000.
 
-### Other Bits
-
-
-http://blogs.edf.org/edfish/2018/05/18/the-remarkable-recovery-of-u-s-fisheries-continues/
+#### But is it Working?
 
 Getting fishery management right is incredibly complex, as illustrated by a history of failure in the United States that spanned decades. Those failures too often deprived saltwater anglers of abundant target stocks, removed local catch from restaurant menus and grocery stores, and created hardship for coastal communities. Yet it is increasingly clear that the United States has now built many of the laws, regulations and institutions needed to meet this complex challenge. If we stay the course, the dividends of our hard-won gains will only grow.
 
-Take the Pacific groundfish fishery. The oceans off our nation’s West Coast have a rich marine biodiversity; and the groundfish fishery, encompassing more than 60 species of rockfish and over 90 species in total, is the region’s largest. Yet by 2000 it was declared a federal disaster, and imports rapidly displaced Pacific groundfish in the U.S. seafood marketplace. What followed was years of hard work by fishermen and other stakeholders – which included the imposition of science-based catch limits for every species, monitoring of every fishing vessel, and development of a new catch share management system that incentivized conservation. Now, the fishery is roaring back. This week’s report confirms that another three Pacific groundfish stocks – bocaccio, darkblotched rockfish and Pacific Ocean perch – have been rebuilt.
+Take the Pacific groundfish fishery. The oceans off our nation’s West Coast have a rich marine biodiversity; and the groundfish fishery, encompassing more than 60 species of rockfish and over 90 species in total, is the region’s largest. Yet by 2000 it was declared a federal disaster, and imports rapidly displaced Pacific groundfish in the U.S. seafood marketplace. What followed was years of hard work by fishermen and other stakeholders – which included the imposition of science-based catch limits for every species, monitoring of every fishing vessel, and development of a new catch share management system that incentivized conservation. Now, the fishery is roaring back. The 2018 report confirms that another three Pacific groundfish stocks – bocaccio, darkblotched rockfish and Pacific Ocean perch – have been rebuilt.
 
-http://blogs.edf.org/edfish/2016/04/20/the-state-of-u-s-fisheries-is-strong/
-https://repository.library.noaa.gov/view/noaa/15619
+At a big-picture level, the 2015 report is another clear indication that “the state of our fisheries is strong.” Indeed, it reveals that in 2015 the Fish Stock Sustainability Index (FSSI) hit an all-time high.
 
+Additionally since 2000 a total of 39 federal stocks that were once dangerously depleted by earlier management failures have been declared fully rebuilt. The new stocks reaching that milestone in 2015 were Petrale Sole and Canary Rockfish – two iconic West Coast groundfish species that are among many being revitalized under catch share management.
 
-At a big-picture level, today’s report is another clear indication that “the state of our fisheries is strong.” Indeed, it reveals that in 2015 the Fish Stock Sustainability Index (FSSI) – the composite index that tracks the health of key commercial and recreational stocks that account for 85% of total catch – hit an all-time high.
-
-At a big-picture level, today’s report is another clear indication that “the state of our fisheries is strong.” Indeed, it reveals that in 2015 the Fish Stock Sustainability Index (FSSI) – the composite index that tracks the health of key commercial and recreational stocks that account for 85% of total catch – hit an all-time high.
-
-Since 2000 a total of 39 federal stocks that were once dangerously depleted by earlier management failures have been declared fully rebuilt. The new stocks reaching that milestone in 2015 were Petrale Sole and Canary Rockfish – two iconic West Coast groundfish species that are among many being revitalized under catch share management.
-
-https://opinionator.blogs.nytimes.com/2016/04/19/how-dwindling-fish-stocks-got-a-reprieve/?smid=tw-nytopinion&smtyp=cur&_r=0
-
-Yet since the turn of the 21st century, something remarkable has happened in United States waters. After decades of shrinking fish populations, some trends have begun to shift.
+Since the turn of the 21st century, something remarkable has happened in United States waters. After decades of shrinking fish populations, some trends have begun to shift.
 
 The number of overfished stocks in federally managed fisheries has dropped by two-thirds, from 92 in 2000, to 29 in 2015. Meanwhile, the tally of federally managed fish populations that have been rebuilt went from zero to 39.
 
 An amendment in 2007 to the 30-year-old Magnuson-Stevens Fishery Conservation and Management Act marked a big departure from this. It mandated that by 2011 every federally managed fishery had to have a scientifically determined, legally enforced annual catch limit, and a management plan for how it would stick to it.
 
-https://oceana.org/blog/fish-tale-recovering-fisheries-and-restoring-abundance
+### Concluding Thoughts
 
-http://oceana.org/sites/default/files/magazinewinter2015_small.pdf
+Conservation can often be challenging as there will never be enough funding to cover all the needs. Yet, we can (and must) do more to conserve fish, wildlife and their habitat to ensure the future of hunting, fishing, and outdoor recreational activities for subsequent generations.
 
-https://www.fisheries.noaa.gov/
+### Additional Information
 
-https://news.nationalgeographic.com/2016/03/160328-fisheries-reform-catch-shares-fishing-science-conservation/
+> note ""
+> fusion94.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-In the U.S., since 2000, there has been a 70 percent drop in the number of overfished species. The number of fish with rebuilt populations has risen from zero to 39. At the same time, the number of jobs in fishing has risen by 31 percent in the past three years while revenue has risen 44 percent.
+I began this article with a quote from Paul Greenberg. Paul Greenberg is the New York Times bestselling author of Four Fish: The Future of the Last Wild Food, American Catch and The Omega Principle. A Pew Fellow in Marine Conservation and the Writer-in-Residence at the Safina Center, Greenberg lectures widely at institutions ranging from Google to Yale. He is the recipient of numerous awards including a James Beard for writing and literature and produces the only wine grown in downtown Manhattan.
 
-US 2017 Report NOAA
+You can find him online at:
 
-https://www.fisheries.noaa.gov/content/fisheries-united-states-2017
+* [Website](http://www.paulgreenberg.org)
+* Twitter:  [@4fishgreenberg](https://twitter.com/4fishgreenberg)
+* Instagram: [@4fishgreenberg](https://www.instagram.com/4fishgreenberg/)
+* [TED talk](https://goo.gl/dKbYbR)
+* [FRONTLINE Doumentary](https://goo.gl/NInOoa)
 
-https://www.fisheries.noaa.gov/national/population-assessments/status-us-fisheries#fish-stock-sustainability-index
+### Additional Data Points/Charts
+
+#### Footnotes

@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: All the useless information that you might care to know.
-description: 
+description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 # Background
 
-My name is Tony Guntharp and I make things. Software or Hardware, it doesn’t matter. I’m OCD, a Geek, a Homebrewer. Fan of Open Source, Linux, OSX and Mobile. Purveyor of Craft Beer and Single Malt Scotches. <del>Avid Motorcyclist and</del> Porsche 911 Owner. 
+My name is Tony Guntharp and I make things. Software or Hardware, it doesn’t matter. I’m OCD, a Geek, a Homebrewer. Fan of Open Source, Linux, OSX and Mobile. Purveyor of Craft Beer and Single Malt Scotches. <del>Avid Motorcyclist and</del> Porsche 911 Owner.
 
 I Spent 10 years of my life jumping out of airplanes for the US Army doing high speed/low drag shit. Combat Veteran.
 

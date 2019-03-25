@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Land Navigation Basics"
-date: 2019-02-04 08:31:59
+date: 2019-05-04 08:31:59
 comments: true
 published: true
-categories: 
+categories:
 ---
 
  Alternatively there are other ways as sportsmen to support Conservation such as the 2% for Conservation movement/organization.
- 
+
 ### What is 2% for Conservation?
 
 [2% for Conservation](https://fishandwildlife.org/) is a non-profit organization (501c3 non-profit) that certifies true conservationists. They believe businesses and individuals committed to giving at least 1% of their time and at least 1% of their money to conservation organizations deserve recognition. They also believe that more businesses and more people need to get involved in conservation to ensure the future existence of fish and wildlife. Their goal is to preserve our hunting and angling heritage and to promote the proper science based conservation of fish, wildlife and their habitat.

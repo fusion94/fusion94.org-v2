@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "Living in Mountain Lion Country"
-date: 2019-04-09 10:29:53
+date: 2019-04-09 18:25:53
 comments: true
 published: true
-tags:
+tags: mountain lions, california
 featured_image: /img/featured/mountain-lion.webp
 ---
 
->The problem for bike riders, joggers and hikers in the wilderness is that the mountain lion has its own habitat.
+> The problem for bike riders, joggers and hikers in the wilderness is that the mountain lion has its own habitat.
 >
 > Pat McDonnell
 
-So this security camera footage was captured earlier this week approximately a 1/2 mile from my house. As such I thought it was time to
+
+So this security camera footage was captured earlier this week approximately a 1/2 mile from my house. As such I thought it was time to write a post in regards to Mountain Lions.<br><br>
 
 <center>
 <iframe src="/images/blog/mountain-lion.mp4" width="640" height="360" frameborder="0" ></iframe>
